@@ -1,115 +1,554 @@
 [
-  {
-      "instruction": "Answer the following questions.",
-      "questions": [
-  {"number":1,"question":"All the girls in the party quarrelled with _______.","options":["each other","one another","theirselves","themselves"],"answer":"one another"},
-  {"number":2,"question":"The chairman and chief executive _______ invited me for a dinner.","options":["has","have","having","was"],"answer":"have"},
-  {"number":3,"question":"Grace took her sister _______ she went to the office.","options":["if","so that","until","before"],"answer":"until"},
-  {"number":4,"question":"Paul did not like fetching water for his grandfather, _______ his mother made him do it.","options":["otherwise","nevertheless","even","moreover"],"answer":"nevertheless"},
-  {"number":5,"question":"I was informed that ________ Jane and her sister will be employed.","options":["neither","both","either","not only"],"answer":"both"},
-  {"number":6,"question":"The new road was completed on time ________ the difficulties involved.","options":["although","despite","besides"],"answer":"despite"},
-  {"number":7,"question":"She will not be able to go with us ________ her father arrives.","options":["except","provided that","but","unless"],"answer":"unless"},
-  {"number":8,"question":"The secretary must have been ill, _______ he would have attended the meeting.","options":["otherwise","unless","although","still"],"answer":"otherwise"},
-  {"number":9,"question":"We _____ the lesson two weeks ago.","options":["begun","began","begin","have began"],"answer":"began"},
-  {"number":10,"question":"The principal has nominated _____and _____ to represent the school.","options":["he/I","he/me","him/me","we/me"],"answer":"him/me"},
-  {"number":11,"question":"Was it ____ you were talking about?","options":["he","him","himself","his"],"answer":"him"},
-  {"number":12,"question":"The two friends hugged _____ at the party.","options":["each one","each other","one another","themselves"],"answer":"each other"},
-  {"number":13,"question":"The children were told to share the sweets _____ the three of them.","options":["against","among","between","for"],"answer":"among"},
-  {"number":14,"question":"Thank you _____ much for the moral support you have given me.","options":["quite","so","too","very"],"answer":"so"},
-  {"number":15,"question":"I fell asleep in the train and was _______ to Kano.","options":["taken","taking","being taken","took"],"answer":"taken"},
-  {"number":16,"question":"The turn-up of participants at the programme was poor because the timing _____ not conducive.","options":["are","is","was","were"],"answer":"was"},
-  {"number":17,"question":"As a team, we need ______ effort to win the trophy.","options":["each other’s","everybody","everyone’s","one another’s"],"answer":"everyone’s"},
-  {"number":18,"question":"I added _______ sugar to the baby's pap because it was tasteless.","options":["few","less","more","small"],"answer":"more"},
-  {"number":19,"question":"They did the work ______.","options":["ourselves","ourself","themselves","themself"],"answer":"themselves"},
-  {"number":20,"question":"The teacher and the parents ______ meeting later today.","options":["will be","is","are","can be"],"answer":"are"},
-  {"number":21,"question":"Tolu and Wunmi could not kill the rat because it escaped _____ the rear door.","options":["from","in","through","on"],"answer":"through"},
-  {"number":22,"question":"The man with his wife _________ coming to visit the family today.","options":["are","is","were","was"],"answer":"is"},
-  {"number":23,"question":"The girl seems to be ________ today than yesterday.","options":["more neat","very neater","neater","neatest"],"answer":"neater"},
-  {"number":24,"question":"I bought ______ mangoes for my sons.","options":["ripe some sweet","sweet ripe some","some sweet riped","sweet some ripe"],"answer":"some sweet riped"},
-  {"number":25,"question":"A dog _____ Mary yesterday.","options":["bite","bit","bitten","beat"],"answer":"bit"},
-  {"number":26,"question":"Why have you _______ the red biro?","options":["choosen","chose","chosen","choosing"],"answer":"chosen"},
-  {"number":27,"question":"The news was ________ on Channels TV.","options":["broadcast","broadcasted","broadcastted","broadcasten"],"answer":"broadcast"},
-  {"number":28,"question":"The police officer ordered the driver to pull _____ for a thorough check.","options":["over","away","in","out"],"answer":"over"},
-  {"number":29,"question":"The student failed the examination because he __________ went to school.","options":["always","regularly","rarely","usually"],"answer":"rarely"},
-  {"number":30,"question":"The sentence,' She is preparing the meal' rewritten in passive voice becomes, The meal _________ by her","options":["has been prepared","is been prepared","is being prepared","was being prepared"],"answer":"is being prepared"},
-  {"number":31,"question":"The sentence, \"I have sewn the dress,\" said the seamstress, rewritten in the indirect speech form becomes, The seamstress said that she ______ the cloth.","options":["had sewn","has being sewing","has sewn","have sewn"],"answer":"had sewn"},
-  {"number":32,"question":"Thepoliceofficerorderedthedrivertopull_________forathoroughcheck.","options":["out","over","through","off"],"answer":"over"},
-  {"number":33,"question":"The council of elders was present at the_____of the new king.","options":["enrolment","induction","coronation","swearing in"],"answer":"coronation"},
-  {"number":34,"question":"The large group of people________the occasion.","options":["attend","attended","attends","attending"],"answer":"attended"},
-  {"number":35,"question":"The fisherman caught a big fish and dropped it at the river________","options":["bank","base","shore","edge"],"answer":"bank"},
-  {"number":36,"question":"Tolu lost his golden pen _______ he has found it now.","options":["as","but","so","yet"],"answer":"but"},
-  {"number":37,"question":"As an advertiser I always decide on the most suitable medium to reach my target ______.","options":["audience","congregation","fans","crowd"],"answer":"audience"},
-  {"number":38,"question":"The current law on human trafficking was_____ by the 8th National Assembly.","options":["annulled","composed","enacted","imposed"],"answer":"enacted"},
-  {"number":39,"question":"You need to be careful while walking on the tiles ________ you slip.","options":["and","then","lest","when"],"answer":"lest"},
-  {"number":40,"question":"Mr. William’s _____ was written by his friend.","options":["autobiography","biography","history","story"],"answer":"biography"}  
-      ]
+    {
+      "number": 1,
+      "question": "The origin of judo can be traced to _____.",
+      "options": [
+         "Dr. Jigoro Kano",
+         "Prof. B Bucher",
+         "Mr. K. Knock",
+         "Mr. W. Morgan"
+      ],
+      "answer": "Dr. Jigoro Kano"
     },
-
-{
-  "instruction": "In the passage below, the numbered gaps indicate missing words. Against each number (41–50), four options are offered in columns A–D. Fill each numbered gap with the correct option. ....Environmental 41 refers to the activities aimed at improving and 42 the standard of basic environmental conditions affecting the 43 of people. You can achieve a 44 environmental by regularly clearing and 45 your house and 46, properly 47 your 48 through covered trash 49 or disposable waste bags rather than 50.",
-  
-  "questions": [
+    {
+      "number": 2,
+      "question": "The art of judo was developed from _____.",
+      "options": [
+         "Jiu-jitsu",
+         "Judokirai",
+         "Ippon",
+         "Kodokan"
+      ],
+      "answer": "Jiu-jitsu"
+    },
+    {
+      "number": 3,
+      "question": "Which of the following does not belong to judoka’s material?",
+      "options": [
+         "Shoes",
+         "Belt",
+         "Jacket",
+         "Trousers"
+      ],
+      "answer": "Shoes"
+    },
+    {
+      "number": 4,
+      "question": "Which of the following is not a technical material in judo?",
+      "options": [
+         "Whistle",
+         "Mat",
+         "Stop clock",
+         "Score sheet"
+      ],
+      "answer": "Mat"
+    },
+    {
+      "number": 5,
+      "question": "The contestants must be evenly matched by _______.",
+      "options": [
+         "weight",
+         "height",
+         "size",
+         "strength"
+      ],
+      "answer": "weight"
+    },
+    {
+      "number": 6,
+      "question": "In what year was judo accepted in Nigeria?",
+      "options": [
+         "1972",
+         "1968",
+         "1964",
+         "1960"
+      ],
+      "answer": "1972"
+    },
+    {
+      "number": 7,
+      "question": "The best facility used in judo contest is the ______.",
+      "options": [
+         "dojo",
+         "field",
+         "room",
+         "gymnastic"
+      ],
+      "answer": "dojo"
+    },
+    {
+      "number": 8,
+      "question": "In judo, the aim of every contestant is to score an _______.",
+      "options": [
+         "ippon",
+         "koka",
+         "yuko",
+         "waza–ari"
+      ],
+      "answer": "ippon"
+    },
+    {
+      "number": 9,
+      "question": "In judo contest, the fight begins when the referee calls _______.",
+      "options": [
+         "hajime",
+         "kajime",
+         "cajime",
+         "none of the above"
+      ],
+      "answer": "hajime"
+    },
+    {
+      "number": 10,
+      "question": "Cricket like most other sports found its way into Nigeria by _____ period.",
+      "options": [
+         "slave trade",
+         "colonization",
+         "second world war",
+         "independence"
+      ],
+      "answer": "colonization"
+    },
+    {
+      "number": 11,
+      "question": "The Nigeria Cricket Association was founded in ______ year.",
+      "options": [
+         "1969",
+         "1968",
+         "1957",
+         "1990"
+      ],
+      "answer": "1957"
+    },
+    {
+      "number": 12,
+      "question": "Cricket is played between ______ team of eleven players.",
+      "options": [
+         "11",
+         "2",
+         "12",
+         "22"
+      ],
+      "answer": "11"
+    },
+    {
+      "number": 13,
+      "question": "In the game of cricket, one team is called _____ team and the other ______.",
+      "options": [
+         "inning, batting",
+         "inning, fielders",
+         "wicket, batting",
+         "wicket, fielders"
+      ],
+      "answer": "inning, fielders"
+    },
+    {
+      "number": 14,
+      "question": "The game is controlled by two _____ who enforce the laws of the game.",
+      "options": [
+         "referee",
+         "recorder",
+         "blower",
+         "umpire"
+      ],
+      "answer": "umpire"
+    },
+    {
+      "number": 15,
+      "question": "The scored through number of ______ made by the batsman.",
+      "options": [
+         "block",
+         "movement",
+         "hits",
+         "runs"
+      ],
+      "answer": "runs"
+    },
+    {
+      "number": 16,
+      "question": "A team scoring the greater number of ______ is the winner.",
+      "options": [
+         "scores",
+         "goals",
+         "cricket",
+         "runs"
+      ],
+      "answer": "runs"
+    },
+    {
+      "number": 17,
+      "question": "The objective of the game is to score as many _______ as possible.",
+      "options": [
+         "goals",
+         "scores",
+         "hitting",
+         "runs"
+      ],
+      "answer": "runs"
+    },
+    {
+      "number": 18,
+      "question": "The standard cricket pitch is measured ______ meters.",
+      "options": [
+         "186m by 138m",
+         "185m by 139m",
+         "184m by 140m",
+         "182m by 137m"
+      ],
+      "answer": "186m by 138m"
+    },
+    {
+      "number": 19,
+      "question": "The skeletal system has two main parts which is known as _____ and ______.",
+      "options": [
+         "vertebral skeleton, invertebral skeleton",
+         "vertebrate, invertebrate skeleton",
+         "axial skeleton, appendicular vertebrate",
+         "axial skeleton and appendicular skeleton"
+      ],
+      "answer": "axial skeleton and appendicular skeleton"
+    },
+    {
+      "number": 20,
+      "question": "The _____ of the body form the skeleton.",
+      "options": [
+         "skull",
+         "vertebral bones",
+         "mandible",
+         "bones"
+      ],
+      "answer": "bones"
+    },
+    {
+      "number": 21,
+      "question": "There are about ______ in the body.",
+      "options": [
+         "300 bones",
+         "250 bones",
+         "207 bones",
+         "206 bones"
+      ],
+      "answer": "206 bones"
+    },
+    {
+      "number": 22,
+      "question": "Which of the following is not a recommended sport wear?",
+      "options": [
+         "Shorts",
+         "Gown",
+         "Track suits",
+         "Canvas & socks"
+      ],
+      "answer": "Gown"
+    },
+    {
+      "number": 23,
+      "question": "_____ events are activities which involves jumping and throwing.",
+      "options": [
+         "Pole vault",
+         "Field",
+         "Track",
+         "Javelin"
+      ],
+      "answer": "Field"
+    },
+    {
+      "number": 24,
+      "question": "All track events are performed in _____",
+      "options": [
+         "field",
+         "lanes",
+         "school",
+         "area"
+      ],
+      "answer": "lanes"
+    },
+    {
+      "number": 25,
+      "question": "Running is an example of ______ event.",
+      "options": [
+         "field",
+         "track",
+         "lane",
+         "all of the above"
+      ],
+      "answer": "track"
+    },
+    {
+      "number": 26,
+      "question": "_____ are events which are intended to cover heights.",
+      "options": [
+         "Throw",
+         "Jumps",
+         "Race",
+         "None of the above"
+      ],
+      "answer": "Jumps"
+    },
+    {
+      "number": 27,
+      "question": "_____ are activities such as sports and exercise which people need physical power to compete in.",
+      "options": [
+         "Sport",
+         "Athletics",
+         "Games",
+         "Event"
+      ],
+      "answer": "Sport"
+    },
+    {
+      "number": 28,
+      "question": "Development of skills in Physical and Health Education includes all but ______.",
+      "options": [
+         "jumping",
+         "eating",
+         "riding",
+         "walking"
+      ],
+      "answer": "eating"
+    },
+    {
+      "number": 29,
+      "question": "Pole vault is a field event.",
+      "options": [
+         "False",
+         "True",
+         "at times",
+         "Most times."
+      ],
+      "answer": "True"
+    },
+    {
+      "number": 30,
+      "question": "A relay team consists of _____ athletes.",
+      "options": [
+         "2",
+         "4",
+         "6",
+         "8"
+      ],
+      "answer": "4"
+    },
+    {
+      "number": 31,
+      "question": "Recreational activities are performed during",
+      "options": [
+         "break period",
+         "leisure hours",
+         "weekend",
+         "bed time"
+      ],
+      "answer": "leisure hours"
+    },
+    {
+      "number": 32,
+      "question": "The following are aspects of leisure activities except",
+      "options": [
+         "fishing",
+         "reading",
+         "wrestling",
+         "gardening"
+      ],
+      "answer": "wrestling"
+    },
+    {
+      "number": 33,
+      "question": "The following are causes of human trafficking except",
+      "options": [
+         "broken homes",
+         "ignorance",
+         "ill-health",
+         "poverty"
+      ],
+      "answer": "ill-health"
+    },
+    {
+      "number": 34,
+      "question": "Which of the following factors does not affect women participating in sport?",
+      "options": [
+         "Culture",
+         "Economy",
+         "Physique",
+         "Religion"
+      ],
+      "answer": "Physique"
+    },
+    {
+      "number": 35,
+      "question": "How many time(s) does an athlete run round a standard track in 800m event?",
+      "options": [
+         "Four",
+         "Six",
+         "Two",
+         "Three"
+      ],
+      "answer": "Two"
+    },
+    {
+      "number": 36,
+      "question": "In which of the following events does an athlete jump for height?",
+      "options": [
+         "Long jump",
+         "Triple jump",
+         "Pole jump",
+         "Hurdles"
+      ],
+      "answer": "Pole jump"
+    },
+    {
+      "number": 37,
+      "question": "Which of the following equipment is used in javelin?",
+      "options": [
+         "Cross bar",
+         "Pole",
+         "Measuring tape",
+         "Stop watch"
+      ],
+      "answer": "Pole"
+    },
+    {
+      "number": 38,
+      "question": "The air we breathe in during physical activities is called",
+      "options": [
+         "fresh air",
+         "hydrogen",
+         "nitrogen",
+         "oxygen"
+      ],
+      "answer": "oxygen"
+    },
+    {
+      "number": 39,
+      "question": "Insufficient warm–up activities may result to",
+      "options": [
+         "anaemia",
+         "nausea",
+         "convulsion",
+         "strain"
+      ],
+      "answer": "strain"
+    },
+    {
+      "number": 40,
+      "question": "Which of these is not true about a warm–up exercise?",
+      "options": [
+         "Reduces incidence of injury",
+         "Prevents early fatigue",
+         "Improves performance",
+         "Reduces blood circulation"
+      ],
+      "answer": "Reduces blood circulation"
+    },
     {
       "number": 41,
-      "question":"________",
-      "options": ["care", "hazard", "sanitation", "health"],
-      "answer": "sanitation"
+      "question": "During physical exercise the body requires more supply of ______.",
+      "options": [
+         "hydrogen",
+         "nitrogen",
+         "carbon dioxide",
+         "oxygen"
+      ],
+      "answer": "oxygen"
     },
     {
       "number": 42,
-      "question":"________",
-      "options": ["defending", "regulating", "developing", "maintaining"],
-      "answer": "maintaining"
+      "question": "The ability to perform a specific activity without undue fatigue is called ______.",
+      "options": [
+         "agility",
+         "endurance",
+         "speed",
+         "strength"
+      ],
+      "answer": "endurance"
     },
     {
       "number": 43,
-      "question":"________",
-      "options": ["wellbeing", "attitude", "habit", "progress"],
-      "answer": "wellbeing"
+      "question": "Which of the following prepares one for other sports?",
+      "options": [
+         "Athletics",
+         "Play",
+         "Recreation",
+         "Physical exercise"
+      ],
+      "answer": "Physical exercise"
     },
     {
       "number": 44,
-      "question":"________",
-      "options": ["friendly", "hygienic", "serene", "peaceful"],
-      "answer": "hygienic"
+      "question": "Which of these is not a function of sport in modern day society?",
+      "options": [
+         "It serves as a means of livelihood",
+         "It is used to reduce tension",
+         "Serves as an avenue to unite various ethnic groups",
+         "Helps to reduce inflation"
+      ],
+      "answer": "Helps to reduce inflation"
     },
     {
       "number": 45,
-      "question":"________",
-      "options": ["clearing", "disinfecting", "painting", "renovating"],
-      "answer": "disinfecting"
+      "question": "The branches of physical education include the following except",
+      "options": [
+         "aquatic",
+         "games and sport",
+         "health",
+         "Cosmetology"
+      ],
+      "answer": "Cosmetology"
     },
     {
       "number": 46,
-      "question":"________",
-      "options": ["garden", "locality", "neighborhood", "surrounding"],
-      "answer": "surrounding"
+      "question": "The objective of physical education include the following except development.",
+      "options": [
+         "mental",
+         "emotional",
+         "motor skills",
+         "philosophical"
+      ],
+      "answer": "philosophical"
     },
     {
       "number": 47,
-      "question":"________",
-      "options": ["burning", "disposing", "preserving", "sanitizing"],
-      "answer": "disposing"
+      "question": "Which of the following recreational activities is best for an elderly person?",
+      "options": [
+         "Running",
+         "Cycling",
+         "Swimming",
+         "Walking"
+      ],
+      "answer": "Walking"
     },
     {
       "number": 48,
-      "question":"________",
-      "options": ["chaff", "debris", "garbage", "materials"],
-      "answer": "garbage"
+      "question": "Which of the following is a good source of vitamin?",
+      "options": [
+         "Fish",
+         "Cheese",
+         "Potato",
+         "Tomato"
+      ],
+      "answer": "Tomato"
     },
     {
       "number": 49,
-      "question":"________",
-      "options": ["barns", "cans", "ditches", "vessels"],
-      "answer": "cans"
+      "question": "A break in the bone of the body is called _______.",
+      "options": [
+         "dislocation",
+         "strain",
+         "wound",
+         "fracture"
+      ],
+      "answer": "fracture"
     },
     {
       "number": 50,
-      "question":"________",
-      "options": ["burning", "drying", "burying", "spreading"],
-      "answer": "burning"
+      "question": "Which of these should not be found in a first aid box?",
+      "options": [
+         "Forceps",
+         "Plaster",
+         "Cotton wool",
+         "Tetracycline"
+      ],
+      "answer": "Tetracycline"
     }
   ]
-}
-]
+
 
