@@ -1,52 +1,452 @@
 [
-    {"number":1,"question":"Species can be defined as the group of organisms that","options":["Resemble each other and live in the same habitat","Are of common origin and are always found together","Resemble each other and can interbreed freely","Are of common origin but cannot interbreed freely"],"answer":"Resemble each other and can interbreed freely"},
-    {"number":2,"question":"The pulmonary artery carries","options":["deoxygenated blood from the right ventricle to the lungs","oxygenated blood from the right ventricle to the lungs","oxygenated blood from the left ventricle to the right auricle","deoxygenated blood from the left ventricle to the right auricle"],"answer":"deoxygenated blood from the right ventricle to the lungs"},
-    {"number":3,"question":"Which of the following blood components has the greatest affinity for oxygen and carbondioxide?","options":["Blood plasma","Leukocytes","Thrombocytes","Erythrocytes"],"answer":"Erythrocytes"},
-    {"number":4,"question":"The bicuspid valve is located between the","options":["left auricle and left ventricle","aorta and left ventricle","right auricle and right ventricle","right auricle and the superior vena cava"],"answer":"left auricle and left ventricle"},
-    {"number":5,"question":"Autotrophic nutrition is a process whereby an organism obtains food by","options":["utilizing its stored energy","synthesizing simple substances using energy","from other organisms in exchange for some products","in a synthesized form from other living organism"],"answer":"synthesizing simple substances using energy"},
-    {"number":6,"question":"The vector of the malaria parasite is the","options":["male anopheles mosquito","female culex mosquito","female aedes mosquito","female anopheles mosquito"],"answer":"female anopheles mosquito"},
-    {"number":7,"question":"Blood in mammals transport oxygen because it contains the pigment called","options":["haemoglobin","chlorocruorin","melanin","haemoerythrin"],"answer":"haemoglobin"},
-    {"number":8,"question":"The translocation of food materials in plants takes place in the","options":["xylem","cambium","phloem","parenchyma"],"answer":"phloem"},
-    {"number":9,"question":"The loss of water vapour through the aerial parts of the plant to the atmosphere is called","options":["guttation","osmoregulation","transpiration","diffusion"],"answer":"transpiration"},
-    {"number":10,"question":"Which of the following statement is not true of osmotic process?","options":["There must be a selectively permeable membrane","The two solutions must be of different concentration","It involves only the movement of water molecules","The two solutions are of equal concentration at the beginning of the experiment"],"answer":"It involves only the movement of water molecules"},
-    {"number":11,"question":"Which of the following groups of organism feeds directly on green plants?","options":["Producer","Primary consumer","Decomposer","Secondary consumer"],"answer":"Primary consumer"},
-    {"number":12,"question":"Breathing roots are characteristics structures of plant growing in","options":["mangrove swamp","desert","shrub biomes","tropical rain forest"],"answer":"mangrove swamp"},
-    {"number":13,"question":"The following organisms are examples of carnivorous plants except","options":["gloriosa","venus flytrap","pitcher plant","utricularia"],"answer":"gloriosa"},
-    {"number":14,"question":"Which of the following structures controls the activities of the living cell?","options":["Nucleus","Centrosome","Chloroplast","Mitochondrion"],"answer":"Nucleus"},
-    {"number":15,"question":"Most of the energy in the cell is produced in the","options":["Mitochondrion","Lysosome","Plastid","Golgi apparatus"],"answer":"Mitochondrion"},
-    {"number":16,"question":"Which of the following statement is not correct of respiration?","options":["Gaseous exchange occurs by diffusion","Oxygen combines with haemoglobin at the respiratory surface","Carbondioxide produced in the tissue is removed by the process of osmosis","In higher animals respiratory gases are transported in solution"],"answer":"Carbondioxide produced in the tissue is removed by the process of osmosis"},
-    {"number":17,"question":"Water vapour is lost in plants during respiration through","options":["stomata and lenticels","xylem and stomata","guard cells and lenticels","parenchyma and lenticels"],"answer":"stomata and lenticels"},
-    {"number":18,"question":"Breathing movement in mammals is accompanied by regular movements of the diaphragm and","options":["floating ribs","pleural cavity","vertebral column","intercostal muscles"],"answer":"intercostal muscles"},
-    {"number":19,"question":"Changes in energy flow between organisms in a habitat can be represented by","options":["pyramid of biomass","pyramid of numbers","pyramid of energy","food chain"],"answer":"pyramid of energy"},
-    {"number":20,"question":"Gaseous exchange takes place in the adult toad through the","options":["buccal cavity, bladder and lungs","buccal cavity, skin and lungs","tympanic membrane, lung and gills","gills, skin and buccal cavity"],"answer":"buccal cavity, skin and lungs"},
-    {"number":21,"question":"The organelle which eliminates water from the body of protozoa is known as","options":["plasma membrane","contractile vacuole","cell wall","protoplasm"],"answer":"contractile vacuole"},
-    {"number":22,"question":"Which of the following statements is correct about diffusion?","options":["It involves the movement of water molecules only","Molecules move from a region of higher concentration to a region of lower concentration","Differentially permeable membrane must be present for diffusion to occur","It occurs when a solute can no longer dissolve in a solvent"],"answer":"Molecules move from a region of higher concentration to a region of lower concentration"},
-    {"number":23,"question":"The pulmonary vein carries","options":["oxygenated blood from right ventricle to the lungs","oxygenated blood from the lungs to the left auricle","deoxygenated blood from the lungs to the right auricle","oxygenated blood from the lungs to the right auricle"],"answer":"oxygenated blood from the lungs to the left auricle"},
-    {"number":24,"question":"Which part of the following adapts the aorta to the high pressure of the blood from the heart?","options":["Thin walls","Fragile membrane","Thick elastic walls","Narrow lumen"],"answer":"Thick elastic walls"},
-    {"number":25,"question":"The part of the alimentary system of a bird where grinding of maize occurs is the","options":["Crop","stomach","gizzard","rectum"],"answer":"gizzard"},
-    {"number":26,"question":"Which of the following is not correct about platelets? They","options":["are also known as thrombocytes","have no nucleus","are formed in the red bone marrow","neutralize the toxins in the blood"],"answer":"neutralize the toxins in the blood"},
-    {"number":27,"question":"Which of the following organs is specially adapted for gaseous exchange in aquatic organism?","options":["Lung","Trachea","Gills","Alveoli"],"answer":"Gills"},
-    {"number":28,"question":"The digestion of protein starts in the","options":["small intestine","stomach","large intestine","mouth"],"answer":"stomach"},
-    {"number":29,"question":"The respiratory organ found in the cockroach is the","options":["air sac","trachea","lung","lung book"],"answer":"trachea"},
-    {"number":30,"question":"The structure that its action could result in choking when talking and eating at the same time is","options":["epiglottis","oesophagus","liver","stomach"],"answer":"epiglottis"},
-    {"number":31,"question":"Which of the following contains enzyme ptyalin","options":["gastric juice","pancreatic juice","succrus","salivary gland"],"answer":"salivary gland"},
-    {"number":32,"question":"The two important physical processes involved in the absorption and transport of materials in plants are","options":["Diffusion and plasmolysis","Cohesion and diffusion","Flaccidity and turgidity","Osmosis and diffusion"],"answer":"Osmosis and diffusion"},
-    {"number":33,"question":"Which of the following organisms exists as a filament?","options":["Euglena","Amoeba","Spirogyra","Volvox"],"answer":"Spirogyra"},
-    {"number":34,"question":"Which of the following performs the same function as the contractile vacuole of a unicellular organism?","options":["Kidney","Alimentary canal","Liver","Bladder"],"answer":"Kidney"},
-    {"number":35,"question":"Which of the following factors does not control population growth?","options":["Food shortage","Emigration","Abundance of food","Predation"],"answer":"Abundance of food"},
-    {"number":36,"question":"In complex food relationships in a community, the primary, secondary and tertiary consumers are referred to as","options":["Symbiosis","omnivores","Heterotrophs","autotrophs"],"answer":"Heterotrophs"},
-    {"number":37,"question":"The part of the mammalian kidney that stores urine is the","options":["capsule","medulla","pelvis","bladder"],"answer":"bladder"},
-    {"number":38,"question":"Red blood cells were found to have burst open after being placed in distilled water for an hour. This phenomenon is known as","options":["plasmolysis","diffusion","haemolysis","wilting"],"answer":"haemolysis"},
-    {"number":39,"question":"The mineral needed for the formation of haemoglobin is","options":["magnesium","phosphorus","iron","calcium"],"answer":"iron"},
-    {"number":40,"question":"Which of the following are the final products of aerobic respiration?","options":["Water, carbondioxide and energy","Pyruvic acid, carbon dioxide and water","Glucose, energy and urea","Energy and carbondioxide"],"answer":"Water, carbondioxide and energy"},
-    {"number":41,"question":"Higher organism use a transport system and not diffusion only to distribute nutrients because","options":["The ratio of their surface area is small","metabolic waste products diffuse to the surface of the organisms","the rate at which nutrients and other substances diffuse increases","substances to be transported move longer distances to reach numerous cells"],"answer":"substances to be transported move longer distances to reach numerous cells"},
-    {"number":42,"question":"The process by which plants convey food materials to different part of the body is called","options":["Nutrition","absorption","Circulation","translocation"],"answer":"translocation"},
-    {"number":43,"question":"The medium in which dissolved nutrients are transported in the body of vertebrates is called","options":["latex","urine","cell sap","blood"],"answer":"blood"},
-    {"number":44,"question":"The duodenum of a person was surgically removed. Which of the following food substances would have their digestion affected","options":["starch and protein only","starch and lipids","starch, peptones and maltose","starch, protein and lipids"],"answer":"starch, protein and lipids"},
-    {"number":45,"question":"Which of the following structures is associated with respiration in insects?","options":["Air sac","Spiracle","Lung","Alveolus"],"answer":"Spiracle"},
-    {"number":46,"question":"The exchange of gases between the environment and the respiratory organs of vertebrates is referred to as","options":["inhalation","respiration","expiration","breathing"],"answer":"breathing"},
-    {"number":47,"question":"Which part of the gill of fish is involved in gaseous exchange","options":["gill slits","gill bars","gill cover","gill filament"],"answer":"gill filament"},
-    {"number":48,"question":"Which of the following parts of the mammalian skin is involved in excretion?","options":["Sebaceous gland","Sweat gland","Horny layer","Hair follicle"],"answer":"Sweat gland"},
-    {"number":49,"question":"Which of the following takes place in the ileum of a human being?","options":["Swallowing of food","Secretion of saliva","Absorption of digested food","Secretion of bile"],"answer":"Absorption of digested food"},
-    {"number":50,"question":"Which of the following does not happen during inspiration?","options":["Intercostal muscles contract","Ribs move forward","Thoracic cavity increases","Diaphragm relaxes"],"answer":"Diaphragm relaxes"}
+    {
+      "number": 1,
+      "question": "Literature is best defined as",
+      "options": [
+        "a record of historical events",
+        "imaginative writing that expresses human experiences",
+        "books written only for entertainment",
+        "any printed material"
+      ],
+      "answer": "imaginative writing that expresses human experiences"
+    },
+    {
+      "number": 2,
+      "question": "The main purpose of literature is to",
+      "options": [
+        "teach grammar",
+        "reflect and interpret human life",
+        "promote politics",
+        "improve handwriting"
+      ],
+      "answer": "reflect and interpret human life"
+    },
+    {
+      "number": 3,
+      "question": "A literary work that instructs and entertains is said to have",
+      "options": [
+        "a moral purpose",
+        "a comic effect",
+        "a didactic function",
+        "a tragic theme"
+      ],
+      "answer": "a didactic function"
+    },
+    {
+      "number": 4,
+      "question": "The writer of a literary work is known as the",
+      "options": [
+        "narrator",
+        "author",
+        "editor",
+        "reviewer"
+      ],
+      "answer": "author"
+    },
+    {
+      "number": 5,
+      "question": "The language of literature is often described as",
+      "options": [
+        "ordinary and direct",
+        "imaginative and creative",
+        "harsh and confusing",
+        "casual and careless"
+      ],
+      "answer": "imaginative and creative"
+    },
+    {
+      "number": 6,
+      "question": "The term theme in literature refers to",
+      "options": [
+        "the central idea of a work",
+        "the time of the event",
+        "the conflict between characters",
+        "the location of the story"
+      ],
+      "answer": "the central idea of a work"
+    },
+    {
+      "number": 7,
+      "question": "The term setting in literature means",
+      "options": [
+        "the beginning of the story",
+        "the place and time of the events",
+        "the ending of the story",
+        "the turning point"
+      ],
+      "answer": "the place and time of the events"
+    },
+    {
+      "number": 8,
+      "question": "The three main genres of literature are",
+      "options": [
+        "poetry, prose, and drama",
+        "essay, speech, and novel",
+        "story, rhyme, and play",
+        "tragedy, comedy, and epic"
+      ],
+      "answer": "poetry, prose, and drama"
+    },
+    {
+      "number": 9,
+      "question": "A prose work written in chapters and paragraphs is called",
+      "options": [
+        "poem",
+        "novel",
+        "act",
+        "scene"
+      ],
+      "answer": "novel"
+    },
+    {
+      "number": 10,
+      "question": "The genre of literature meant to be performed on stage is",
+      "options": [
+        "poetry",
+        "prose",
+        "drama",
+        "epic"
+      ],
+      "answer": "drama"
+    },
+    {
+      "number": 11,
+      "question": "The genre of literature that uses rhythm and imagery is",
+      "options": [
+        "prose",
+        "poetry",
+        "drama",
+        "fiction"
+      ],
+      "answer": "poetry"
+    },
+    {
+      "number": 12,
+      "question": "A short fictional prose narrative is called",
+      "options": [
+        "a novel",
+        "a short story",
+        "a play",
+        "an epic"
+      ],
+      "answer": "a short story"
+    },
+    {
+      "number": 13,
+      "question": "Which of the following is not a genre of literature?",
+      "options": [
+        "Drama",
+        "Poetry",
+        "Prose",
+        "Grammar"
+      ],
+      "answer": "Grammar"
+    },
+    {
+      "number": 14,
+      "question": "An epic is a long poem that deals with",
+      "options": [
+        "love affairs",
+        "heroic deeds and adventures",
+        "political campaigns",
+        "dreams and visions"
+      ],
+      "answer": "heroic deeds and adventures"
+    },
+    {
+      "number": 15,
+      "question": "The written form of a play is called a",
+      "options": [
+        "script",
+        "stanza",
+        "paragraph",
+        "lyric"
+      ],
+      "answer": "script"
+    },
+    {
+      "number": 16,
+      "question": "A person who writes plays is a",
+      "options": [
+        "novelist",
+        "dramatist",
+        "poet",
+        "editor"
+      ],
+      "answer": "dramatist"
+    },
+    {
+      "number": 17,
+      "question": "The conversation between characters in a play is known as",
+      "options": [
+        "monologue",
+        "dialogue",
+        "soliloquy",
+        "aside"
+      ],
+      "answer": "dialogue"
+    },
+    {
+      "number": 18,
+      "question": "The stage direction in a drama helps",
+      "options": [
+        "readers to understand characters’ thoughts",
+        "actors to know how to move and act",
+        "playwrights to create titles",
+        "audiences to memorize lines"
+      ],
+      "answer": "actors to know how to move and act"
+    },
+    {
+      "number": 19,
+      "question": "The major divisions of a play are",
+      "options": [
+        "chapters and verses",
+        "acts and scenes",
+        "lines and stanzas",
+        "pages and parts"
+      ],
+      "answer": "acts and scenes"
+    },
+    {
+      "number": 20,
+      "question": "A long speech made by a character alone on stage is called",
+      "options": [
+        "dialogue",
+        "soliloquy",
+        "aside",
+        "narration"
+      ],
+      "answer": "soliloquy"
+    },
+    {
+      "number": 21,
+      "question": "The climax of a drama refers to",
+      "options": [
+        "the beginning of the play",
+        "the highest point of tension",
+        "the final resolution",
+        "the introduction of characters"
+      ],
+      "answer": "the highest point of tension"
+    },
+    {
+      "number": 22,
+      "question": "A play that ends unhappily is called a",
+      "options": [
+        "comedy",
+        "farce",
+        "tragedy",
+        "satire"
+      ],
+      "answer": "tragedy"
+    },
+    {
+      "number": 23,
+      "question": "The conflict in a play usually arises from",
+      "options": [
+        "disagreement between characters",
+        "the author’s personal problems",
+        "stage design",
+        "audience reaction"
+      ],
+      "answer": "disagreement between characters"
+    },
+    {
+      "number": 24,
+      "question": "The storyteller in a novel or short story is called the",
+      "options": [
+        "reader",
+        "narrator",
+        "playwright",
+        "observer"
+      ],
+      "answer": "narrator"
+    },
+    {
+      "number": 25,
+      "question": "The plot of a prose work refers to",
+      "options": [
+        "the sequence of events",
+        "the theme of the story",
+        "the characters’ background",
+        "the writer’s opinion"
+      ],
+      "answer": "the sequence of events"
+    },
+    {
+      "number": 26,
+      "question": "The main character in a prose work is the",
+      "options": [
+        "villain",
+        "protagonist",
+        "narrator",
+        "antagonist"
+      ],
+      "answer": "protagonist"
+    },
+    {
+      "number": 27,
+      "question": "The character that opposes the hero is known as the",
+      "options": [
+        "protagonist",
+        "narrator",
+        "antagonist",
+        "foil"
+      ],
+      "answer": "antagonist"
+    },
+    {
+      "number": 28,
+      "question": "A story based on real-life events is",
+      "options": [
+        "fiction",
+        "nonfiction",
+        "comedy",
+        "fable"
+      ],
+      "answer": "nonfiction"
+    },
+    {
+      "number": 29,
+      "question": "A story that teaches moral lessons using animals is called a",
+      "options": [
+        "legend",
+        "myth",
+        "fable",
+        "epic"
+      ],
+      "answer": "fable"
+    },
+    {
+      "number": 30,
+      "question": "The term point of view in prose refers to",
+      "options": [
+        "the writer’s handwriting",
+        "the narrator’s position in telling the story",
+        "the reader’s opinion"
+ ],
+      "answer": "the narrator’s position in telling the story"
+    },
+    {
+      "number": 31,
+      "question": "A poem is divided into units called",
+      "options": ["chapters", "stanzas", "scenes", "acts"],
+      "answer": "stanzas"
+    },
+    {
+      "number": 32,
+      "question": "The person speaking in a poem is called the",
+      "options": ["poet", "persona", "reader", "narrator"],
+      "answer": "persona"
+    },
+    {
+      "number": 33,
+      "question": "The use of words that imitate sounds, like 'buzz,' is called",
+      "options": ["alliteration", "onomatopoeia", "simile", "personification"],
+      "answer": "onomatopoeia"
+    },
+    {
+      "number": 34,
+      "question": "The comparison of two things using 'like' or 'as' is a",
+      "options": ["metaphor", "simile", "imagery", "personification"],
+      "answer": "simile"
+    },
+    {
+      "number": 35,
+      "question": "A poem that expresses deep personal feelings is called a",
+      "options": ["narrative poem", "lyric poem", "ballad", "sonnet"],
+      "answer": "lyric poem"
+    },
+    {
+      "number": 36,
+      "question": "The repetition of initial consonant sounds is",
+      "options": ["rhyme", "alliteration", "assonance", "repetition"],
+      "answer": "alliteration"
+    },
+    {
+      "number": 37,
+      "question": "'The sun smiled at me' is an example of",
+      "options": ["simile", "hyperbole", "personification", "irony"],
+      "answer": "personification"
+    },
+    {
+      "number": 38,
+      "question": "A fourteen-line poem with a fixed rhyme scheme is a",
+      "options": ["limerick", "ode", "sonnet", "elegy"],
+      "answer": "sonnet"
+    },
+    {
+      "number": 39,
+      "question": "Literary appreciation means",
+      "options": ["summarizing a story", "judging and interpreting a literary work", "copying passages", "memorizing poems"],
+      "answer": "judging and interpreting a literary work"
+    },
+    {
+      "number": 40,
+      "question": "Imagery in literature appeals to",
+      "options": ["the sense of sight only", "the human senses", "sound and hearing only", "imagination only"],
+      "answer": "the human senses"
+    },
+    {
+      "number": 41,
+      "question": "Irony occurs when",
+      "options": ["words mean the opposite of what is said", "characters tell lies", "readers are confused", "events repeat themselves"],
+      "answer": "words mean the opposite of what is said"
+    },
+    {
+      "number": 42,
+      "question": "A figure of speech that exaggerates is called",
+      "options": ["personification", "simile", "hyperbole", "paradox"],
+      "answer": "hyperbole"
+    },
+    {
+      "number": 43,
+      "question": "'The pen is mightier than the sword' is an example of",
+      "options": ["irony", "metonymy", "simile", "metaphor"],
+      "answer": "metonymy"
+    },
+    {
+      "number": 44,
+      "question": "Oral literature is transmitted through",
+      "options": ["the internet", "the spoken word", "textbooks", "journals"],
+      "answer": "the spoken word"
+    },
+    {
+      "number": 45,
+      "question": "Written literature is recorded in",
+      "options": ["performances", "printed or written form", "songs", "memory"],
+      "answer": "printed or written form"
+    },
+    {
+      "number": 46,
+      "question": "Proverbs, folktales, and riddles belong to",
+      "options": ["written literature", "oral literature", "modern fiction", "drama"],
+      "answer": "oral literature"
+    },
+    {
+      "number": 47,
+      "question": "One major feature of oral literature is",
+      "options": ["it is permanent", "it depends on performance and memory", "it cannot be understood", "it is always written"],
+      "answer": "it depends on performance and memory"
+    },
+    {
+      "number": 48,
+      "question": "Oral literature helps to",
+      "options": ["preserve culture and tradition", "destroy old customs", "discourage storytelling", "promote silence"],
+      "answer": "preserve culture and tradition"
+    },
+    {
+      "number": 49,
+      "question": "The term 'literary devices' refers to",
+      "options": ["tools used for writing exams", "techniques writers use to beautify their work", "equipment for recording poems", "sound instruments"],
+      "answer": "techniques writers use to beautify their work"
+    },
+    {
+      "number": 50,
+      "question": "The audience in literature refers to",
+      "options": ["the characters in a play", "the people who read or watch a work", "the critics and reviewers", "the producers of a book"],
+      "answer": "the people who read or watch a work"
+    }
   ]
+
