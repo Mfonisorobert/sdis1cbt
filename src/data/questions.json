@@ -1,452 +1,554 @@
-[
+ [
     {
       "number": 1,
-      "question": "Literature is best defined as",
+      "question": "What is the smallest unit of storage in a computer?",
       "options": [
-        "a record of historical events",
-        "imaginative writing that expresses human experiences",
-        "books written only for entertainment",
-        "any printed material"
+         "Byte",
+         "Bit",
+         "Kilobyte",
+         "Nibble"
       ],
-      "answer": "imaginative writing that expresses human experiences"
+      "answer": "Bit"
     },
     {
       "number": 2,
-      "question": "The main purpose of literature is to",
+      "question": "How many bits are there in one byte?",
       "options": [
-        "teach grammar",
-        "reflect and interpret human life",
-        "promote politics",
-        "improve handwriting"
+         "2",
+         "4",
+         "8",
+         "16"
       ],
-      "answer": "reflect and interpret human life"
+      "answer": "8"
     },
     {
       "number": 3,
-      "question": "A literary work that instructs and entertains is said to have",
+      "question": "Which unit of storage is equal to 4 bits?",
       "options": [
-        "a moral purpose",
-        "a comic effect",
-        "a didactic function",
-        "a tragic theme"
+         "Byte",
+         "Nibble",
+         "Kilobyte",
+         "Megabyte"
       ],
-      "answer": "a didactic function"
+      "answer": "Nibble"
     },
     {
       "number": 4,
-      "question": "The writer of a literary work is known as the",
+      "question": "What is the approximate number of bytes in one kilobyte (KB)?",
       "options": [
-        "narrator",
-        "author",
-        "editor",
-        "reviewer"
+         "1000 bytes",
+         "1024 bytes",
+         "512 bytes",
+         "2048 bytes"
       ],
-      "answer": "author"
+      "answer": "1024 bytes"
     },
     {
       "number": 5,
-      "question": "The language of literature is often described as",
+      "question": "Which unit is larger than a gigabyte (GB)?",
       "options": [
-        "ordinary and direct",
-        "imaginative and creative",
-        "harsh and confusing",
-        "casual and careless"
+         "Megabyte (MB)",
+         "Terabyte (TB)",
+         "Kilobyte (KB)",
+         "Byte"
       ],
-      "answer": "imaginative and creative"
+      "answer": "Terabyte (TB)"
     },
     {
       "number": 6,
-      "question": "The term theme in literature refers to",
+      "question": "One megabyte (MB) is equal to approximately how many bytes?",
       "options": [
-        "the central idea of a work",
-        "the time of the event",
-        "the conflict between characters",
-        "the location of the story"
+         "1024 bytes",
+         "1,048,576 bytes",
+         "1000 bytes",
+         "512 bytes"
       ],
-      "answer": "the central idea of a work"
+      "answer": "1,048,576 bytes"
     },
     {
       "number": 7,
-      "question": "The term setting in literature means",
+      "question": "Which unit is commonly used to measure the size of a computer’s RAM?",
       "options": [
-        "the beginning of the story",
-        "the place and time of the events",
-        "the ending of the story",
-        "the turning point"
+         "Bit",
+         "Byte",
+         "Gigabyte",
+         "Nibble"
       ],
-      "answer": "the place and time of the events"
+      "answer": "Gigabyte"
     },
     {
       "number": 8,
-      "question": "The three main genres of literature are",
+      "question": "Which unit is typically used to describe the storage capacity of a hard disk drive?",
       "options": [
-        "poetry, prose, and drama",
-        "essay, speech, and novel",
-        "story, rhyme, and play",
-        "tragedy, comedy, and epic"
+         "Byte",
+         "Megabyte",
+         "Gigabyte or Terabyte",
+         "Bit"
       ],
-      "answer": "poetry, prose, and drama"
+      "answer": "Gigabyte or Terabyte"
     },
     {
       "number": 9,
-      "question": "A prose work written in chapters and paragraphs is called",
+      "question": "What does the prefix “kilo” in kilobyte represent?",
       "options": [
-        "poem",
-        "novel",
-        "act",
-        "scene"
+         "10³ (1000)",
+         "2¹⁰ (1024)",
+         "10⁶ (1,000,000)",
+         "2²⁰ (1,048,576)"
       ],
-      "answer": "novel"
+      "answer": "10³ (1000)"
     },
     {
       "number": 10,
-      "question": "The genre of literature meant to be performed on stage is",
+      "question": "Which unit of storage is equal to 1024 megabytes?",
       "options": [
-        "poetry",
-        "prose",
-        "drama",
-        "epic"
+         "Kilobyte",
+         "Gigabyte",
+         "Terabyte",
+         "Byte"
       ],
-      "answer": "drama"
+      "answer": "Gigabyte"
     },
     {
       "number": 11,
-      "question": "The genre of literature that uses rhythm and imagery is",
+      "question": "Who is primarily responsible for writing, testing, and debugging software programs?",
       "options": [
-        "prose",
-        "poetry",
-        "drama",
-        "fiction"
+         "System analyst",
+         "Programmer",
+         "End user",
+         "Network administrator"
       ],
-      "answer": "poetry"
+      "answer": "Programmer"
     },
     {
       "number": 12,
-      "question": "A short fictional prose narrative is called",
+      "question": "Which humanware component interacts directly with computer applications to perform tasks?",
       "options": [
-        "a novel",
-        "a short story",
-        "a play",
-        "an epic"
+         "System analyst",
+         "End user",
+         "Hardware engineer",
+         "Database administrator"
       ],
-      "answer": "a short story"
+      "answer": "End user"
     },
     {
       "number": 13,
-      "question": "Which of the following is not a genre of literature?",
+      "question": "Who analyzes and designs information systems to meet business needs?",
       "options": [
-        "Drama",
-        "Poetry",
-        "Prose",
-        "Grammar"
+         "Programmer",
+         "System analyst",
+         "End user",
+         "Network technician"
       ],
-      "answer": "Grammar"
+      "answer": "System analyst"
     },
     {
       "number": 14,
-      "question": "An epic is a long poem that deals with",
+      "question": "Which role is responsible for managing and maintaining computer networks?",
       "options": [
-        "love affairs",
-        "heroic deeds and adventures",
-        "political campaigns",
-        "dreams and visions"
+         "Network administrator",
+         "End user",
+         "Software tester",
+         "System analyst"
       ],
-      "answer": "heroic deeds and adventures"
+      "answer": "Network administrator"
     },
     {
       "number": 15,
-      "question": "The written form of a play is called a",
+      "question": "Which humanware component is involved in planning and installing computer hardware?",
       "options": [
-        "script",
-        "stanza",
-        "paragraph",
-        "lyric"
+         "Programmer",
+         "Hardware engineer",
+         "End user",
+         "Database administrator"
       ],
-      "answer": "script"
+      "answer": "Hardware engineer"
     },
     {
       "number": 16,
-      "question": "A person who writes plays is a",
+      "question": "Who maintains and manages databases within an organization?",
       "options": [
-        "novelist",
-        "dramatist",
-        "poet",
-        "editor"
+         "System analyst",
+         "Database administrator",
+         "Programmer",
+         "Network technician"
       ],
-      "answer": "dramatist"
+      "answer": "Database administrator"
     },
     {
       "number": 17,
-      "question": "The conversation between characters in a play is known as",
+      "question": "Who is responsible for ensuring that software meets quality standards by identifying bugs?",
       "options": [
-        "monologue",
-        "dialogue",
-        "soliloquy",
-        "aside"
+         "System analyst",
+         "Software tester",
+         "End user",
+         "Network administrator"
       ],
-      "answer": "dialogue"
+      "answer": "Software tester"
     },
     {
       "number": 18,
-      "question": "The stage direction in a drama helps",
+      "question": "Which of the following is NOT considered part of humanware?",
       "options": [
-        "readers to understand characters’ thoughts",
-        "actors to know how to move and act",
-        "playwrights to create titles",
-        "audiences to memorize lines"
+         "Programmers",
+         "End users",
+         "Operating system",
+         "System analysts"
       ],
-      "answer": "actors to know how to move and act"
+      "answer": "Operating system"
     },
     {
       "number": 19,
-      "question": "The major divisions of a play are",
+      "question": "Who provides technical support and troubleshooting for computer users?",
       "options": [
-        "chapters and verses",
-        "acts and scenes",
-        "lines and stanzas",
-        "pages and parts"
+         "Help desk technician",
+         "Programmer",
+         "Database administrator",
+         "System analyst"
       ],
-      "answer": "acts and scenes"
+      "answer": "Help desk technician"
     },
     {
       "number": 20,
-      "question": "A long speech made by a character alone on stage is called",
+      "question": "Which humanware role involves overseeing the entire development life cycle of software projects?",
       "options": [
-        "dialogue",
-        "soliloquy",
-        "aside",
-        "narration"
+         "Project manager",
+         "End user",
+         "Network technician",
+         "Programmer"
       ],
-      "answer": "soliloquy"
+      "answer": "Project manager"
     },
     {
       "number": 21,
-      "question": "The climax of a drama refers to",
+      "question": "Which of the following is an example of system software?",
       "options": [
-        "the beginning of the play",
-        "the highest point of tension",
-        "the final resolution",
-        "the introduction of characters"
+         "Microsoft Word",
+         "Windows Operating System",
+         "Adobe Photoshop",
+         "Google Chrome"
       ],
-      "answer": "the highest point of tension"
+      "answer": "Windows Operating System"
     },
     {
       "number": 22,
-      "question": "A play that ends unhappily is called a",
+      "question": "What is the main function of an operating system?",
       "options": [
-        "comedy",
-        "farce",
-        "tragedy",
-        "satire"
+         "To edit documents",
+         "To manage hardware and software resources",
+         "To browse the internet",
+         "To play multimedia files"
       ],
-      "answer": "tragedy"
+      "answer": "To manage hardware and software resources"
     },
     {
       "number": 23,
-      "question": "The conflict in a play usually arises from",
+      "question": "Which of the following is NOT considered system software?",
       "options": [
-        "disagreement between characters",
-        "the author’s personal problems",
-        "stage design",
-        "audience reaction"
+         "Operating System",
+         "Compiler",
+         "Web Browser",
+         "Device Driver"
       ],
-      "answer": "disagreement between characters"
+      "answer": "Web Browser"
     },
     {
       "number": 24,
-      "question": "The storyteller in a novel or short story is called the",
+      "question": "Windows 95 was released in the year?",
       "options": [
-        "reader",
-        "narrator",
-        "playwright",
-        "observer"
+         "1960",
+         "1920",
+         "1995",
+         "1998"
       ],
-      "answer": "narrator"
+      "answer": "1995"
     },
     {
       "number": 25,
-      "question": "The plot of a prose work refers to",
+      "question": "Windows 98 was released in the year?",
       "options": [
-        "the sequence of events",
-        "the theme of the story",
-        "the characters’ background",
-        "the writer’s opinion"
+         "1612",
+         "1958",
+         "1998",
+         "2002"
       ],
-      "answer": "the sequence of events"
+      "answer": "1998"
     },
     {
       "number": 26,
-      "question": "The main character in a prose work is the",
+      "question": "All are examples of operating system except one",
       "options": [
-        "villain",
-        "protagonist",
-        "narrator",
-        "antagonist"
+         "Disk operating system",
+         "Windows",
+         "Windows NT",
+         "All of the above"
       ],
-      "answer": "protagonist"
+      "answer": "All of the above"
     },
     {
       "number": 27,
-      "question": "The character that opposes the hero is known as the",
+      "question": "Windows XP was released in what year?",
       "options": [
-        "protagonist",
-        "narrator",
-        "antagonist",
-        "foil"
+         "1860",
+         "1980",
+         "2000",
+         "2001"
       ],
-      "answer": "antagonist"
+      "answer": "2001"
     },
     {
       "number": 28,
-      "question": "A story based on real-life events is",
+      "question": "We have how many types of software?",
       "options": [
-        "fiction",
-        "nonfiction",
-        "comedy",
-        "fable"
+         "10",
+         "5",
+         "3",
+         "2"
       ],
-      "answer": "nonfiction"
+      "answer": "3"
     },
     {
       "number": 29,
-      "question": "A story that teaches moral lessons using animals is called a",
+      "question": "O S stands for what?",
       "options": [
-        "legend",
-        "myth",
-        "fable",
-        "epic"
+         "Operation system",
+         "Operating Software",
+         "Operating system",
+         "Opera System"
       ],
-      "answer": "fable"
+      "answer": "Operating system"
     },
     {
       "number": 30,
-      "question": "The term point of view in prose refers to",
+      "question": "AS stands for what?",
       "options": [
-        "the writer’s handwriting",
-        "the narrator’s position in telling the story",
-        "the reader’s opinion"
- ],
-      "answer": "the narrator’s position in telling the story"
+         "Apply standard",
+         "Application software",
+         "Application system",
+         "None of the above"
+      ],
+      "answer": "Application software"
     },
     {
       "number": 31,
-      "question": "A poem is divided into units called",
-      "options": ["chapters", "stanzas", "scenes", "acts"],
-      "answer": "stanzas"
+      "question": "ROM stands for what?",
+      "options": [
+         "Read access memory",
+         "Random access memorandum",
+         "Read accept memory",
+         "Random access memory"
+      ],
+      "answer": "Random access memory"
     },
     {
       "number": 32,
-      "question": "The person speaking in a poem is called the",
-      "options": ["poet", "persona", "reader", "narrator"],
-      "answer": "persona"
+      "question": "ROM stands for what?",
+      "options": [
+         "Random only memory",
+         "Read only memory",
+         "Ready only memory",
+         "None of the above"
+      ],
+      "answer": "Read only memory"
     },
     {
       "number": 33,
-      "question": "The use of words that imitate sounds, like 'buzz,' is called",
-      "options": ["alliteration", "onomatopoeia", "simile", "personification"],
-      "answer": "onomatopoeia"
+      "question": "We have how many times of computer system?",
+      "options": [
+         "5",
+         "6",
+         "10",
+         "4"
+      ],
+      "answer": "4"
     },
     {
       "number": 34,
-      "question": "The comparison of two things using 'like' or 'as' is a",
-      "options": ["metaphor", "simile", "imagery", "personification"],
-      "answer": "simile"
+      "question": "We have how many types of software?",
+      "options": [
+         "10",
+         "5",
+         "3",
+         "2"
+      ],
+      "answer": "2"
     },
     {
       "number": 35,
-      "question": "A poem that expresses deep personal feelings is called a",
-      "options": ["narrative poem", "lyric poem", "ballad", "sonnet"],
-      "answer": "lyric poem"
+      "question": "All these are types of computer programs except one",
+      "options": [
+         "Database",
+         "Web browser",
+         "Word processor",
+         "All of the above"
+      ],
+      "answer": "All of the above"
     },
     {
       "number": 36,
-      "question": "The repetition of initial consonant sounds is",
-      "options": ["rhyme", "alliteration", "assonance", "repetition"],
-      "answer": "alliteration"
+      "question": "GPU stands for what?",
+      "options": [
+         "Gross processing unit",
+         "Graphics processor unit",
+         "Graphics processing unit",
+         "None of the above"
+      ],
+      "answer": "Graphics processing unit"
     },
     {
       "number": 37,
-      "question": "'The sun smiled at me' is an example of",
-      "options": ["simile", "hyperbole", "personification", "irony"],
-      "answer": "personification"
+      "question": "____ refers to the ability or capacity to do work.",
+      "options": [
+         "Electricity",
+         "Power",
+         "Energy",
+         "Monitor"
+      ],
+      "answer": "Energy"
     },
     {
       "number": 38,
-      "question": "A fourteen-line poem with a fixed rhyme scheme is a",
-      "options": ["limerick", "ode", "sonnet", "elegy"],
-      "answer": "sonnet"
+      "question": "____ is the rate of doing work",
+      "options": [
+         "Power",
+         "Light",
+         "Food",
+         "water"
+      ],
+      "answer": "Power"
     },
     {
       "number": 39,
-      "question": "Literary appreciation means",
-      "options": ["summarizing a story", "judging and interpreting a literary work", "copying passages", "memorizing poems"],
-      "answer": "judging and interpreting a literary work"
+      "question": "____ refers to raw facts and figures that the computer processes and store",
+      "options": [
+         "Application",
+         "CPU",
+         "Monitor",
+         "Data"
+      ],
+      "answer": "Data"
     },
     {
       "number": 40,
-      "question": "Imagery in literature appeals to",
-      "options": ["the sense of sight only", "the human senses", "sound and hearing only", "imagination only"],
-      "answer": "the human senses"
+      "question": "____ and _____ are the types of the operating system",
+      "options": [
+         "Single and multiple user",
+         "Process and memory user",
+         "All of the above",
+         "Singular and plural user"
+      ],
+      "answer": "Single and multiple user"
     },
     {
       "number": 41,
-      "question": "Irony occurs when",
-      "options": ["words mean the opposite of what is said", "characters tell lies", "readers are confused", "events repeat themselves"],
-      "answer": "words mean the opposite of what is said"
+      "question": "Which of the following is a high-level programming language?",
+      "options": [
+         "Assembly",
+         "Machine code",
+         "Python",
+         "Binary code"
+      ],
+      "answer": "Python"
     },
     {
       "number": 42,
-      "question": "A figure of speech that exaggerates is called",
-      "options": ["personification", "simile", "hyperbole", "paradox"],
-      "answer": "hyperbole"
+      "question": "What does IDE stand for in programming?",
+      "options": [
+         "Integrated Development Environment",
+         "Internal Design Editor",
+         "Interactive Debugging Engine",
+         "Internet Development Edition"
+      ],
+      "answer": "Integrated Development Environment"
     },
     {
       "number": 43,
-      "question": "'The pen is mightier than the sword' is an example of",
-      "options": ["irony", "metonymy", "simile", "metaphor"],
-      "answer": "metonymy"
+      "question": "Which programming language is primarily used for web development on the client side?",
+      "options": [
+         "C++",
+         "JavaScript",
+         "Python",
+         "Java"
+      ],
+      "answer": "JavaScript"
     },
     {
       "number": 44,
-      "question": "Oral literature is transmitted through",
-      "options": ["the internet", "the spoken word", "textbooks", "journals"],
-      "answer": "the spoken word"
+      "question": "Which of the following programming languages is considered a low-level language?",
+      "options": [
+         "Java",
+         "Assembly language",
+         "Ruby",
+         "Swift"
+      ],
+      "answer": "Assembly language"
     },
     {
       "number": 45,
-      "question": "Written literature is recorded in",
-      "options": ["performances", "printed or written form", "songs", "memory"],
-      "answer": "printed or written form"
+      "question": "What type of programming language uses natural language elements and is easy to understand?",
+      "options": [
+         "Machine language",
+         "Assembly language",
+         "High-level language",
+         "Low-level language"
+      ],
+      "answer": "High-level language"
     },
     {
       "number": 46,
-      "question": "Proverbs, folktales, and riddles belong to",
-      "options": ["written literature", "oral literature", "modern fiction", "drama"],
-      "answer": "oral literature"
+      "question": "Which of the following is a low-level programming language?",
+      "options": [
+         "Python",
+         "Assembly language",
+         "Java",
+         "C#"
+      ],
+      "answer": "Assembly language"
     },
     {
       "number": 47,
-      "question": "One major feature of oral literature is",
-      "options": ["it is permanent", "it depends on performance and memory", "it cannot be understood", "it is always written"],
-      "answer": "it depends on performance and memory"
+      "question": "Which type of programming language is machine-readable and consists of binary code?",
+      "options": [
+         "High-level language",
+         "Assembly language",
+         "Machine language",
+         "Procedural language"
+      ],
+      "answer": "Machine language"
     },
     {
       "number": 48,
-      "question": "Oral literature helps to",
-      "options": ["preserve culture and tradition", "destroy old customs", "discourage storytelling", "promote silence"],
-      "answer": "preserve culture and tradition"
+      "question": "Which programming language classification focuses on writing instructions as a sequence of commands?",
+      "options": [
+         "Object-oriented language",
+         "Procedural language",
+         "Functional language",
+         "Scripting language"
+      ],
+      "answer": "Procedural language"
     },
     {
       "number": 49,
-      "question": "The term 'literary devices' refers to",
-      "options": ["tools used for writing exams", "techniques writers use to beautify their work", "equipment for recording poems", "sound instruments"],
-      "answer": "techniques writers use to beautify their work"
+      "question": "Which programming paradigm organizes code using objects that contain data and methods?",
+      "options": [
+         "Procedural programming",
+         "Functional programming",
+         "Object-oriented programming",
+         "Logic programming"
+      ],
+      "answer": "Object-oriented programming"
     },
     {
       "number": 50,
-      "question": "The audience in literature refers to",
-      "options": ["the characters in a play", "the people who read or watch a work", "the critics and reviewers", "the producers of a book"],
-      "answer": "the people who read or watch a work"
+      "question": "Which of the following is an example of a scripting language?",
+      "options": [
+         "C++",
+         "Java",
+         "JavaScript",
+         "Assembly"
+      ],
+      "answer": "JavaScript"
     }
   ]
+
 
