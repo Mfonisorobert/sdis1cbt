@@ -1,554 +1,302 @@
- [
+[
     {
       "number": 1,
-      "question": "What is the smallest unit of storage in a computer?",
-      "options": [
-         "Byte",
-         "Bit",
-         "Kilobyte",
-         "Nibble"
-      ],
-      "answer": "Bit"
+      "question": "Which of the following is not a product of application of Chemistry?",
+      "options": ["Soap", "Air", "Paint", "Plastic"],
+      "answer": "Air"
     },
     {
       "number": 2,
-      "question": "How many bits are there in one byte?",
-      "options": [
-         "2",
-         "4",
-         "8",
-         "16"
-      ],
-      "answer": "8"
+      "question": "An element, Q contains 69% of ⁶³Q and 31% of ⁶⁵Q. What is the relative atomic mass of Q?",
+      "options": ["63.0", "63.6", "65.0", "69.0"],
+      "answer": "63.6"
     },
     {
       "number": 3,
-      "question": "Which unit of storage is equal to 4 bits?",
-      "options": [
-         "Byte",
-         "Nibble",
-         "Kilobyte",
-         "Megabyte"
-      ],
-      "answer": "Nibble"
+      "question": "The most abundant element on the earth’s surface is",
+      "options": ["Nitrogen", "Aluminum", "Oxygen", "Iron"],
+      "answer": "Nitrogen"
     },
     {
       "number": 4,
-      "question": "What is the approximate number of bytes in one kilobyte (KB)?",
-      "options": [
-         "1000 bytes",
-         "1024 bytes",
-         "512 bytes",
-         "2048 bytes"
-      ],
-      "answer": "1024 bytes"
+      "question": "Which of the following is not a separation technique?",
+      "options": ["Sieving", "Filtration", "Dissolution", "Floatation"],
+      "answer": "Dissolution"
     },
     {
       "number": 5,
-      "question": "Which unit is larger than a gigabyte (GB)?",
-      "options": [
-         "Megabyte (MB)",
-         "Terabyte (TB)",
-         "Kilobyte (KB)",
-         "Byte"
-      ],
-      "answer": "Terabyte (TB)"
+      "question": "Separation of mixtures of solids by physical methods can be based on differences in the following except",
+      "options": ["Melting point", "Solubility", "Particle size", "Molar mass"],
+      "answer": "Molar mass"
     },
     {
       "number": 6,
-      "question": "One megabyte (MB) is equal to approximately how many bytes?",
-      "options": [
-         "1024 bytes",
-         "1,048,576 bytes",
-         "1000 bytes",
-         "512 bytes"
-      ],
-      "answer": "1,048,576 bytes"
+      "question": "The following ions have the same electron configuration except ₈O, ₁₂Mg, ₁₃Al, ₁₇Cl",
+      "options": ["Cl⁻", "O²⁻", "Mg²⁺", "Al³⁺"],
+      "answer": "Cl⁻"
     },
     {
       "number": 7,
-      "question": "Which unit is commonly used to measure the size of a computer’s RAM?",
-      "options": [
-         "Bit",
-         "Byte",
-         "Gigabyte",
-         "Nibble"
-      ],
-      "answer": "Gigabyte"
+      "question": "One of these is an example of a metalloid",
+      "options": ["Calcium", "Magnesium", "Aluminum", "Silicon"],
+      "answer": "Silicon"
     },
     {
       "number": 8,
-      "question": "Which unit is typically used to describe the storage capacity of a hard disk drive?",
-      "options": [
-         "Byte",
-         "Megabyte",
-         "Gigabyte or Terabyte",
-         "Bit"
-      ],
-      "answer": "Gigabyte or Terabyte"
+      "question": "The smallest unit of a substance that can exist alone and still retain the chemical properties of the substance is a/an",
+      "options": ["Molecule", "Atom", "Ion", "Compound"],
+      "answer": "Molecule"
     },
     {
       "number": 9,
-      "question": "What does the prefix “kilo” in kilobyte represent?",
-      "options": [
-         "10³ (1000)",
-         "2¹⁰ (1024)",
-         "10⁶ (1,000,000)",
-         "2²⁰ (1,048,576)"
-      ],
-      "answer": "10³ (1000)"
+      "question": "Separating funnel is used for separating a mixture of",
+      "options": ["Liquids with different boiling points", "Sediments of a liquid", "Liquids with different colours", "Liquids that are immiscible"],
+      "answer": "Liquids that are immiscible"
     },
     {
       "number": 10,
-      "question": "Which unit of storage is equal to 1024 megabytes?",
-      "options": [
-         "Kilobyte",
-         "Gigabyte",
-         "Terabyte",
-         "Byte"
-      ],
-      "answer": "Gigabyte"
+      "question": "Fractional distillation of petroleum depends on difference in",
+      "options": ["Molar masses", "Densities", "Boiling points", "Freezing points"],
+      "answer": "Boiling points"
     },
     {
       "number": 11,
-      "question": "Who is primarily responsible for writing, testing, and debugging software programs?",
-      "options": [
-         "System analyst",
-         "Programmer",
-         "End user",
-         "Network administrator"
-      ],
-      "answer": "Programmer"
+      "question": "One of these is an example of a mixture",
+      "options": ["Water", "Limestone", "Air", "Sodium hydroxide"],
+      "answer": "Air"
     },
     {
       "number": 12,
-      "question": "Which humanware component interacts directly with computer applications to perform tasks?",
-      "options": [
-         "System analyst",
-         "End user",
-         "Hardware engineer",
-         "Database administrator"
-      ],
-      "answer": "End user"
+      "question": "Which of these is the same in isotopes of an element?",
+      "options": ["Mass number", "Number of neutrons", "Number of protons and neutrons", "Atomic number"],
+      "answer": "Atomic number"
     },
     {
       "number": 13,
-      "question": "Who analyzes and designs information systems to meet business needs?",
-      "options": [
-         "Programmer",
-         "System analyst",
-         "End user",
-         "Network technician"
-      ],
-      "answer": "System analyst"
+      "question": "The property used in obtaining oxygen and nitrogen industrially from air is the",
+      "options": ["Boiling point", "Density", "Rate of diffusion", "Solubility"],
+      "answer": "Boiling point"
     },
     {
       "number": 14,
-      "question": "Which role is responsible for managing and maintaining computer networks?",
-      "options": [
-         "Network administrator",
-         "End user",
-         "Software tester",
-         "System analyst"
-      ],
-      "answer": "Network administrator"
+      "question": "A sample of orange juice is suspected to be contaminated with a yellow dye. Which of the following methods can be used to detect the dye?",
+      "options": ["Decantation", "Distillation", "Chromatography", "Evaporation"],
+      "answer": "Chromatography"
     },
     {
       "number": 15,
-      "question": "Which humanware component is involved in planning and installing computer hardware?",
-      "options": [
-         "Programmer",
-         "Hardware engineer",
-         "End user",
-         "Database administrator"
-      ],
-      "answer": "Hardware engineer"
+      "question": "One of these elements has a valence of one",
+      "options": ["Lithium", "Beryllium", "Aluminum", "Calcium"],
+      "answer": "Lithium"
     },
     {
       "number": 16,
-      "question": "Who maintains and manages databases within an organization?",
-      "options": [
-         "System analyst",
-         "Database administrator",
-         "Programmer",
-         "Network technician"
-      ],
-      "answer": "Database administrator"
+      "question": "Positive ions are called",
+      "options": ["Cations", "Anions", "Molecules", "Atoms"],
+      "answer": "Cations"
     },
     {
       "number": 17,
-      "question": "Who is responsible for ensuring that software meets quality standards by identifying bugs?",
-      "options": [
-         "System analyst",
-         "Software tester",
-         "End user",
-         "Network administrator"
-      ],
-      "answer": "Software tester"
+      "question": "What is the combing power of an element?",
+      "options": ["Proton", "Neutron", "Valency", "Atom"],
+      "answer": "Valency"
     },
     {
       "number": 18,
-      "question": "Which of the following is NOT considered part of humanware?",
-      "options": [
-         "Programmers",
-         "End users",
-         "Operating system",
-         "System analysts"
-      ],
-      "answer": "Operating system"
+      "question": "Burning of firewood is an example of",
+      "options": ["Physical change", "Chemical change", "Metallic change", "Ionic change"],
+      "answer": "Chemical change"
     },
     {
       "number": 19,
-      "question": "Who provides technical support and troubleshooting for computer users?",
-      "options": [
-         "Help desk technician",
-         "Programmer",
-         "Database administrator",
-         "System analyst"
-      ],
-      "answer": "Help desk technician"
+      "question": "Pure ethanol can be obtained from a mixture of ethanol and water by",
+      "options": ["Evaporation", "Fractional distillation", "Simple distillation", "Fractional distillation"],
+      "answer": "Fractional distillation"
     },
     {
       "number": 20,
-      "question": "Which humanware role involves overseeing the entire development life cycle of software projects?",
-      "options": [
-         "Project manager",
-         "End user",
-         "Network technician",
-         "Programmer"
-      ],
-      "answer": "Project manager"
+      "question": "Which of the following procedures is suitable for identifying the food colouring added to a pastry sample?",
+      "options": ["Carry out some food tests", "Examine the pastry sample under a microscope", "Do a chromatogram of the colouring extract", "Determine the molar mass of the colouring"],
+      "answer": "Do a chromatogram of the colouring extract"
     },
     {
       "number": 21,
-      "question": "Which of the following is an example of system software?",
-      "options": [
-         "Microsoft Word",
-         "Windows Operating System",
-         "Adobe Photoshop",
-         "Google Chrome"
-      ],
-      "answer": "Windows Operating System"
+      "question": "The proton has the same mass with the",
+      "options": ["Neutron", "Electron", "Ion", "Atom"],
+      "answer": "Neutron"
     },
     {
       "number": 22,
-      "question": "What is the main function of an operating system?",
-      "options": [
-         "To edit documents",
-         "To manage hardware and software resources",
-         "To browse the internet",
-         "To play multimedia files"
-      ],
-      "answer": "To manage hardware and software resources"
+      "question": "The number of atoms in each molecule of an element is called its",
+      "options": ["Ion", "Atomicity", "Isotope", "Mixture"],
+      "answer": "Atomicity"
     },
     {
       "number": 23,
-      "question": "Which of the following is NOT considered system software?",
-      "options": [
-         "Operating System",
-         "Compiler",
-         "Web Browser",
-         "Device Driver"
-      ],
-      "answer": "Web Browser"
+      "question": "The atomic number of an atom would be equal to its mass number if it",
+      "options": ["Has a totally filled valence shell", "Has a high charge to mass ratio", "Does not contain neutrons", "Exhibits isotopy"],
+      "answer": "Does not contain neutrons"
     },
     {
       "number": 24,
-      "question": "Windows 95 was released in the year?",
-      "options": [
-         "1960",
-         "1920",
-         "1995",
-         "1998"
-      ],
-      "answer": "1995"
+      "question": "Rare gases are stable because they",
+      "options": ["Are monoatomic", "Are volatile gases", "Have no neutrons in their nucleus", "Have duplet or octet electronic configuration"],
+      "answer": "Have duplet or octet electronic configuration"
     },
     {
       "number": 25,
-      "question": "Windows 98 was released in the year?",
-      "options": [
-         "1612",
-         "1958",
-         "1998",
-         "2002"
-      ],
-      "answer": "1998"
+      "question": "Which of these separation techniques can be used to separate an insoluble solid from a liquid?",
+      "options": ["Centrifugation", "Chromatography", "Distillation", "Sublimation"],
+      "answer": "Centrifugation"
     },
     {
       "number": 26,
-      "question": "All are examples of operating system except one",
-      "options": [
-         "Disk operating system",
-         "Windows",
-         "Windows NT",
-         "All of the above"
-      ],
-      "answer": "All of the above"
+      "question": "In countries where the temperature falls below 273K, salt is always sprinkled on the icy roads in order to",
+      "options": ["Lower the melting point of ice", "Increase the density of the ice", "Make the ice impure", "Raise the melting point of the ice"],
+      "answer": "Lower the melting point of ice"
     },
     {
       "number": 27,
-      "question": "Windows XP was released in what year?",
-      "options": [
-         "1860",
-         "1980",
-         "2000",
-         "2001"
-      ],
-      "answer": "2001"
+      "question": "An atom with 17 protons, 17 electrons and 18 neutrons has a mass number of",
+      "options": ["17", "18", "34", "35"],
+      "answer": "35"
     },
     {
       "number": 28,
-      "question": "We have how many types of software?",
-      "options": [
-         "10",
-         "5",
-         "3",
-         "2"
-      ],
-      "answer": "3"
+      "question": "The isotopes of neon are represented by the symbols ²⁰Ne, ²¹Ne and ²²Ne. The relationship between p, q and r (the atomic numbers) is",
+      "options": ["p>q>r", "p<q<r", "p=q=r", "p<r<p"],
+      "answer": "p=q=r"
     },
     {
       "number": 29,
-      "question": "O S stands for what?",
-      "options": [
-         "Operation system",
-         "Operating Software",
-         "Operating system",
-         "Opera System"
-      ],
-      "answer": "Operating system"
+      "question": "The formula of the compound formed between a trivalent metal, X and a divalent non-metal, Y is",
+      "options": ["X₂Y₂", "X₂Y₃", "XY₃", "XY"],
+      "answer": "X₂Y₃"
     },
     {
       "number": 30,
-      "question": "AS stands for what?",
-      "options": [
-         "Apply standard",
-         "Application software",
-         "Application system",
-         "None of the above"
-      ],
-      "answer": "Application software"
+      "question": "An atom of an element, X gains two electrons. The symbol of the ion formed is",
+      "options": ["X⁺", "X²⁺", "X²⁻", "X⁻"],
+      "answer": "X²⁻"
     },
     {
       "number": 31,
-      "question": "ROM stands for what?",
-      "options": [
-         "Read access memory",
-         "Random access memorandum",
-         "Read accept memory",
-         "Random access memory"
-      ],
-      "answer": "Random access memory"
+      "question": "Brass is an alloy of",
+      "options": ["copper and tin", "copper and zinc", "tin and zinc", "copper and iron"],
+      "answer": "copper and zinc"
     },
     {
       "number": 32,
-      "question": "ROM stands for what?",
-      "options": [
-         "Random only memory",
-         "Read only memory",
-         "Ready only memory",
-         "None of the above"
-      ],
-      "answer": "Read only memory"
+      "question": "Positive ions are called",
+      "options": ["Cations", "Anions", "Molecules", "Atoms"],
+      "answer": "Cations"
     },
     {
       "number": 33,
-      "question": "We have how many times of computer system?",
-      "options": [
-         "5",
-         "6",
-         "10",
-         "4"
-      ],
-      "answer": "4"
+      "question": "We study Chemistry to acquire knowledge about",
+      "options": ["Bioscience", "Theory", "Matter", "Hypothesis"],
+      "answer": "Matter"
     },
     {
       "number": 34,
-      "question": "We have how many types of software?",
-      "options": [
-         "10",
-         "5",
-         "3",
-         "2"
-      ],
-      "answer": "2"
+      "question": "These are adverse effects of chemistry except",
+      "options": ["Corrosion", "Drug abuse", "Pollution", "Population"],
+      "answer": "Population"
     },
     {
       "number": 35,
-      "question": "All these are types of computer programs except one",
-      "options": [
-         "Database",
-         "Web browser",
-         "Word processor",
-         "All of the above"
-      ],
-      "answer": "All of the above"
+      "question": "Which of these following elements is diatomic",
+      "options": ["Sodium", "Iron", "Oxygen", "Neon"],
+      "answer": "Oxygen"
     },
     {
       "number": 36,
-      "question": "GPU stands for what?",
-      "options": [
-         "Gross processing unit",
-         "Graphics processor unit",
-         "Graphics processing unit",
-         "None of the above"
-      ],
-      "answer": "Graphics processing unit"
+      "question": "One of these professions has no need for chemistry",
+      "options": ["Miners", "Engineers", "Philosophers", "Geologists"],
+      "answer": "Philosophers"
     },
     {
       "number": 37,
-      "question": "____ refers to the ability or capacity to do work.",
-      "options": [
-         "Electricity",
-         "Power",
-         "Energy",
-         "Monitor"
-      ],
-      "answer": "Energy"
+      "question": "Sieving is a technique used to separate mixtures containing solid particles of",
+      "options": ["Small sizes", "Large sizes", "The same size", "Different sizes"],
+      "answer": "Different sizes"
     },
     {
       "number": 38,
-      "question": "____ is the rate of doing work",
-      "options": [
-         "Power",
-         "Light",
-         "Food",
-         "water"
-      ],
-      "answer": "Power"
+      "question": "Which of these requires crystallization most?",
+      "options": ["Drug making", "Cement making", "Paint making", "Perfume making"],
+      "answer": "Drug making"
     },
     {
       "number": 39,
-      "question": "____ refers to raw facts and figures that the computer processes and store",
-      "options": [
-         "Application",
-         "CPU",
-         "Monitor",
-         "Data"
-      ],
-      "answer": "Data"
+      "question": "Which of these following electronic configurations represent that of a noble gas?",
+      "options": ["2,8,8,2", "2,8,2", "2,8", "2,6"],
+      "answer": "2,8"
     },
     {
       "number": 40,
-      "question": "____ and _____ are the types of the operating system",
-      "options": [
-         "Single and multiple user",
-         "Process and memory user",
-         "All of the above",
-         "Singular and plural user"
-      ],
-      "answer": "Single and multiple user"
+      "question": "Which of the following atoms contain the highest number of electrons in the outermost shell?",
+      "options": ["₈O", "₁₀Ne", "₁₅P", "₁₉K"],
+      "answer": "₁₀Ne"
     },
     {
       "number": 41,
-      "question": "Which of the following is a high-level programming language?",
-      "options": [
-         "Assembly",
-         "Machine code",
-         "Python",
-         "Binary code"
-      ],
-      "answer": "Python"
+      "question": "A molecule of ozone is",
+      "options": ["Monoatomic", "Diatomic", "Triatomic", "Tetraatomic"],
+      "answer": "Triatomic"
     },
     {
       "number": 42,
-      "question": "What does IDE stand for in programming?",
-      "options": [
-         "Integrated Development Environment",
-         "Internal Design Editor",
-         "Interactive Debugging Engine",
-         "Internet Development Edition"
-      ],
-      "answer": "Integrated Development Environment"
+      "question": "Which laboratory apparatus is used in transferring little quantity of solids into test tubes?",
+      "options": ["Centrifuge", "Spatula", "Pipette", "Burette"],
+      "answer": "Spatula"
     },
     {
       "number": 43,
-      "question": "Which programming language is primarily used for web development on the client side?",
-      "options": [
-         "C++",
-         "JavaScript",
-         "Python",
-         "Java"
-      ],
-      "answer": "JavaScript"
+      "question": "One of these is not used for measurement",
+      "options": ["Beaker", "Funnel", "Conical flask", "Measuring cylinder"],
+      "answer": "Funnel"
     },
     {
       "number": 44,
-      "question": "Which of the following programming languages is considered a low-level language?",
-      "options": [
-         "Java",
-         "Assembly language",
-         "Ruby",
-         "Swift"
-      ],
-      "answer": "Assembly language"
+      "question": "The chemical symbol of silver is",
+      "options": ["S", "Si", "Ar", "Ag"],
+      "answer": "Ag"
     },
     {
       "number": 45,
-      "question": "What type of programming language uses natural language elements and is easy to understand?",
-      "options": [
-         "Machine language",
-         "Assembly language",
-         "High-level language",
-         "Low-level language"
-      ],
-      "answer": "High-level language"
+      "question": "A group of atoms with a charge is referred to as",
+      "options": ["Radical", "Molecule", "Element", "Compound"],
+      "answer": "Radical"
     },
     {
       "number": 46,
-      "question": "Which of the following is a low-level programming language?",
-      "options": [
-         "Python",
-         "Assembly language",
-         "Java",
-         "C#"
-      ],
-      "answer": "Assembly language"
+      "question": "All of these are binary compounds except",
+      "options": ["Hydrogen sulphide", "Common salt", "Ethanol", "Water"],
+      "answer": "Ethanol"
     },
     {
       "number": 47,
-      "question": "Which type of programming language is machine-readable and consists of binary code?",
-      "options": [
-         "High-level language",
-         "Assembly language",
-         "Machine language",
-         "Procedural language"
-      ],
-      "answer": "Machine language"
+      "question": "One of these is not a component of air",
+      "options": ["Dust", "Oxygen", "Nitrogen", "Calcium"],
+      "answer": "Calcium"
     },
     {
       "number": 48,
-      "question": "Which programming language classification focuses on writing instructions as a sequence of commands?",
-      "options": [
-         "Object-oriented language",
-         "Procedural language",
-         "Functional language",
-         "Scripting language"
-      ],
-      "answer": "Procedural language"
+      "question": "What is the charge of a neutron?",
+      "options": ["0", "+1", "-1", "+2"],
+      "answer": "0"
     },
     {
       "number": 49,
-      "question": "Which programming paradigm organizes code using objects that contain data and methods?",
-      "options": [
-         "Procedural programming",
-         "Functional programming",
-         "Object-oriented programming",
-         "Logic programming"
-      ],
-      "answer": "Object-oriented programming"
+      "question": "How many electrons are contained in the P-orbital?",
+      "options": ["2", "3", "4", "6"],
+      "answer": "6"
     },
     {
       "number": 50,
-      "question": "Which of the following is an example of a scripting language?",
-      "options": [
-         "C++",
-         "Java",
-         "JavaScript",
-         "Assembly"
-      ],
-      "answer": "JavaScript"
+      "question": "How many electrons are in calcium ion?",
+      "options": ["16", "18", "20", "22"],
+      "answer": "18"
     }
   ]
-
-
