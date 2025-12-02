@@ -1,302 +1,52 @@
 [
-    {
-      "number": 1,
-      "question": "Which of the following is not a product of application of Chemistry?",
-      "options": ["Soap", "Air", "Paint", "Plastic"],
-      "answer": "Air"
-    },
-    {
-      "number": 2,
-      "question": "An element, Q contains 69% of ⁶³Q and 31% of ⁶⁵Q. What is the relative atomic mass of Q?",
-      "options": ["63.0", "63.6", "65.0", "69.0"],
-      "answer": "63.6"
-    },
-    {
-      "number": 3,
-      "question": "The most abundant element on the earth’s surface is",
-      "options": ["Nitrogen", "Aluminum", "Oxygen", "Iron"],
-      "answer": "Nitrogen"
-    },
-    {
-      "number": 4,
-      "question": "Which of the following is not a separation technique?",
-      "options": ["Sieving", "Filtration", "Dissolution", "Floatation"],
-      "answer": "Dissolution"
-    },
-    {
-      "number": 5,
-      "question": "Separation of mixtures of solids by physical methods can be based on differences in the following except",
-      "options": ["Melting point", "Solubility", "Particle size", "Molar mass"],
-      "answer": "Molar mass"
-    },
-    {
-      "number": 6,
-      "question": "The following ions have the same electron configuration except ₈O, ₁₂Mg, ₁₃Al, ₁₇Cl",
-      "options": ["Cl⁻", "O²⁻", "Mg²⁺", "Al³⁺"],
-      "answer": "Cl⁻"
-    },
-    {
-      "number": 7,
-      "question": "One of these is an example of a metalloid",
-      "options": ["Calcium", "Magnesium", "Aluminum", "Silicon"],
-      "answer": "Silicon"
-    },
-    {
-      "number": 8,
-      "question": "The smallest unit of a substance that can exist alone and still retain the chemical properties of the substance is a/an",
-      "options": ["Molecule", "Atom", "Ion", "Compound"],
-      "answer": "Molecule"
-    },
-    {
-      "number": 9,
-      "question": "Separating funnel is used for separating a mixture of",
-      "options": ["Liquids with different boiling points", "Sediments of a liquid", "Liquids with different colours", "Liquids that are immiscible"],
-      "answer": "Liquids that are immiscible"
-    },
-    {
-      "number": 10,
-      "question": "Fractional distillation of petroleum depends on difference in",
-      "options": ["Molar masses", "Densities", "Boiling points", "Freezing points"],
-      "answer": "Boiling points"
-    },
-    {
-      "number": 11,
-      "question": "One of these is an example of a mixture",
-      "options": ["Water", "Limestone", "Air", "Sodium hydroxide"],
-      "answer": "Air"
-    },
-    {
-      "number": 12,
-      "question": "Which of these is the same in isotopes of an element?",
-      "options": ["Mass number", "Number of neutrons", "Number of protons and neutrons", "Atomic number"],
-      "answer": "Atomic number"
-    },
-    {
-      "number": 13,
-      "question": "The property used in obtaining oxygen and nitrogen industrially from air is the",
-      "options": ["Boiling point", "Density", "Rate of diffusion", "Solubility"],
-      "answer": "Boiling point"
-    },
-    {
-      "number": 14,
-      "question": "A sample of orange juice is suspected to be contaminated with a yellow dye. Which of the following methods can be used to detect the dye?",
-      "options": ["Decantation", "Distillation", "Chromatography", "Evaporation"],
-      "answer": "Chromatography"
-    },
-    {
-      "number": 15,
-      "question": "One of these elements has a valence of one",
-      "options": ["Lithium", "Beryllium", "Aluminum", "Calcium"],
-      "answer": "Lithium"
-    },
-    {
-      "number": 16,
-      "question": "Positive ions are called",
-      "options": ["Cations", "Anions", "Molecules", "Atoms"],
-      "answer": "Cations"
-    },
-    {
-      "number": 17,
-      "question": "What is the combing power of an element?",
-      "options": ["Proton", "Neutron", "Valency", "Atom"],
-      "answer": "Valency"
-    },
-    {
-      "number": 18,
-      "question": "Burning of firewood is an example of",
-      "options": ["Physical change", "Chemical change", "Metallic change", "Ionic change"],
-      "answer": "Chemical change"
-    },
-    {
-      "number": 19,
-      "question": "Pure ethanol can be obtained from a mixture of ethanol and water by",
-      "options": ["Evaporation", "Fractional distillation", "Simple distillation", "Fractional distillation"],
-      "answer": "Fractional distillation"
-    },
-    {
-      "number": 20,
-      "question": "Which of the following procedures is suitable for identifying the food colouring added to a pastry sample?",
-      "options": ["Carry out some food tests", "Examine the pastry sample under a microscope", "Do a chromatogram of the colouring extract", "Determine the molar mass of the colouring"],
-      "answer": "Do a chromatogram of the colouring extract"
-    },
-    {
-      "number": 21,
-      "question": "The proton has the same mass with the",
-      "options": ["Neutron", "Electron", "Ion", "Atom"],
-      "answer": "Neutron"
-    },
-    {
-      "number": 22,
-      "question": "The number of atoms in each molecule of an element is called its",
-      "options": ["Ion", "Atomicity", "Isotope", "Mixture"],
-      "answer": "Atomicity"
-    },
-    {
-      "number": 23,
-      "question": "The atomic number of an atom would be equal to its mass number if it",
-      "options": ["Has a totally filled valence shell", "Has a high charge to mass ratio", "Does not contain neutrons", "Exhibits isotopy"],
-      "answer": "Does not contain neutrons"
-    },
-    {
-      "number": 24,
-      "question": "Rare gases are stable because they",
-      "options": ["Are monoatomic", "Are volatile gases", "Have no neutrons in their nucleus", "Have duplet or octet electronic configuration"],
-      "answer": "Have duplet or octet electronic configuration"
-    },
-    {
-      "number": 25,
-      "question": "Which of these separation techniques can be used to separate an insoluble solid from a liquid?",
-      "options": ["Centrifugation", "Chromatography", "Distillation", "Sublimation"],
-      "answer": "Centrifugation"
-    },
-    {
-      "number": 26,
-      "question": "In countries where the temperature falls below 273K, salt is always sprinkled on the icy roads in order to",
-      "options": ["Lower the melting point of ice", "Increase the density of the ice", "Make the ice impure", "Raise the melting point of the ice"],
-      "answer": "Lower the melting point of ice"
-    },
-    {
-      "number": 27,
-      "question": "An atom with 17 protons, 17 electrons and 18 neutrons has a mass number of",
-      "options": ["17", "18", "34", "35"],
-      "answer": "35"
-    },
-    {
-      "number": 28,
-      "question": "The isotopes of neon are represented by the symbols ²⁰Ne, ²¹Ne and ²²Ne. The relationship between p, q and r (the atomic numbers) is",
-      "options": ["p>q>r", "p<q<r", "p=q=r", "p<r<p"],
-      "answer": "p=q=r"
-    },
-    {
-      "number": 29,
-      "question": "The formula of the compound formed between a trivalent metal, X and a divalent non-metal, Y is",
-      "options": ["X₂Y₂", "X₂Y₃", "XY₃", "XY"],
-      "answer": "X₂Y₃"
-    },
-    {
-      "number": 30,
-      "question": "An atom of an element, X gains two electrons. The symbol of the ion formed is",
-      "options": ["X⁺", "X²⁺", "X²⁻", "X⁻"],
-      "answer": "X²⁻"
-    },
-    {
-      "number": 31,
-      "question": "Brass is an alloy of",
-      "options": ["copper and tin", "copper and zinc", "tin and zinc", "copper and iron"],
-      "answer": "copper and zinc"
-    },
-    {
-      "number": 32,
-      "question": "Positive ions are called",
-      "options": ["Cations", "Anions", "Molecules", "Atoms"],
-      "answer": "Cations"
-    },
-    {
-      "number": 33,
-      "question": "We study Chemistry to acquire knowledge about",
-      "options": ["Bioscience", "Theory", "Matter", "Hypothesis"],
-      "answer": "Matter"
-    },
-    {
-      "number": 34,
-      "question": "These are adverse effects of chemistry except",
-      "options": ["Corrosion", "Drug abuse", "Pollution", "Population"],
-      "answer": "Population"
-    },
-    {
-      "number": 35,
-      "question": "Which of these following elements is diatomic",
-      "options": ["Sodium", "Iron", "Oxygen", "Neon"],
-      "answer": "Oxygen"
-    },
-    {
-      "number": 36,
-      "question": "One of these professions has no need for chemistry",
-      "options": ["Miners", "Engineers", "Philosophers", "Geologists"],
-      "answer": "Philosophers"
-    },
-    {
-      "number": 37,
-      "question": "Sieving is a technique used to separate mixtures containing solid particles of",
-      "options": ["Small sizes", "Large sizes", "The same size", "Different sizes"],
-      "answer": "Different sizes"
-    },
-    {
-      "number": 38,
-      "question": "Which of these requires crystallization most?",
-      "options": ["Drug making", "Cement making", "Paint making", "Perfume making"],
-      "answer": "Drug making"
-    },
-    {
-      "number": 39,
-      "question": "Which of these following electronic configurations represent that of a noble gas?",
-      "options": ["2,8,8,2", "2,8,2", "2,8", "2,6"],
-      "answer": "2,8"
-    },
-    {
-      "number": 40,
-      "question": "Which of the following atoms contain the highest number of electrons in the outermost shell?",
-      "options": ["₈O", "₁₀Ne", "₁₅P", "₁₉K"],
-      "answer": "₁₀Ne"
-    },
-    {
-      "number": 41,
-      "question": "A molecule of ozone is",
-      "options": ["Monoatomic", "Diatomic", "Triatomic", "Tetraatomic"],
-      "answer": "Triatomic"
-    },
-    {
-      "number": 42,
-      "question": "Which laboratory apparatus is used in transferring little quantity of solids into test tubes?",
-      "options": ["Centrifuge", "Spatula", "Pipette", "Burette"],
-      "answer": "Spatula"
-    },
-    {
-      "number": 43,
-      "question": "One of these is not used for measurement",
-      "options": ["Beaker", "Funnel", "Conical flask", "Measuring cylinder"],
-      "answer": "Funnel"
-    },
-    {
-      "number": 44,
-      "question": "The chemical symbol of silver is",
-      "options": ["S", "Si", "Ar", "Ag"],
-      "answer": "Ag"
-    },
-    {
-      "number": 45,
-      "question": "A group of atoms with a charge is referred to as",
-      "options": ["Radical", "Molecule", "Element", "Compound"],
-      "answer": "Radical"
-    },
-    {
-      "number": 46,
-      "question": "All of these are binary compounds except",
-      "options": ["Hydrogen sulphide", "Common salt", "Ethanol", "Water"],
-      "answer": "Ethanol"
-    },
-    {
-      "number": 47,
-      "question": "One of these is not a component of air",
-      "options": ["Dust", "Oxygen", "Nitrogen", "Calcium"],
-      "answer": "Calcium"
-    },
-    {
-      "number": 48,
-      "question": "What is the charge of a neutron?",
-      "options": ["0", "+1", "-1", "+2"],
-      "answer": "0"
-    },
-    {
-      "number": 49,
-      "question": "How many electrons are contained in the P-orbital?",
-      "options": ["2", "3", "4", "6"],
-      "answer": "6"
-    },
-    {
-      "number": 50,
-      "question": "How many electrons are in calcium ion?",
-      "options": ["16", "18", "20", "22"],
-      "answer": "18"
-    }
+    {"number":1,"question":"Limestone is mainly used in the manufacture of —","options":["Glass","Cement","Paints","Fertilizer"],"answer":"Cement"},
+    {"number":2,"question":"Which of the following industries depends largely on limestone?","options":["Textile industry","Iron and steel industry","Cement industry","Food industry"],"answer":"Cement industry"},
+    {"number":3,"question":"Limestone areas are important for tourism because of —","options":["Waterfalls","Karst scenery like caves and sinkholes","Forest reserves","Flat plains"],"answer":"Karst scenery like caves and sinkholes"},
+    {"number":4,"question":"One major economic use of limestone is —","options":["Energy production","Animal feed supplement","Rubber production","Salt mining"],"answer":"Animal feed supplement"},
+    {"number":5,"question":"Limestone regions are useful for agriculture because —","options":["They have rich volcanic soils","Limestone neutralizes soil acidity","They are always flooded","They produce oil"],"answer":"Limestone neutralizes soil acidity"},
+    {"number":6,"question":"Denudation refers to —","options":["The process of mountain building","Wearing down of the earth’s surface","Growth of vegetation","Volcanic eruption"],"answer":"Wearing down of the earth’s surface"},
+    {"number":7,"question":"The correct sequence of denudation is —","options":["Weathering → Erosion → Transportation → Deposition","Erosion → Weathering → Deposition → Transportation","Deposition → Erosion → Weathering → Transportation","Transportation → Deposition → Erosion → Weathering"],"answer":"Weathering → Erosion → Transportation → Deposition"},
+    {"number":8,"question":"The process of removing weathered materials from their original place is called —","options":["Weathering","Deposition","Erosion","Sedimentation"],"answer":"Erosion"},
+    {"number":9,"question":"Which of the following is a type of mechanical weathering?","options":["Carbonation","Oxidation","Frost action","Hydrolysis"],"answer":"Frost action"},
+    {"number":10,"question":"Chemical weathering is most active in —","options":["Hot and dry regions","Cold regions","Warm and humid regions","Desert regions"],"answer":"Warm and humid regions"},
+    {"number":11,"question":"Biological weathering is caused by —","options":["Temperature changes only","Animals and plant roots","Wind erosion","Rainfall"],"answer":"Animals and plant roots"},
+    {"number":12,"question":"When rock minerals react with water to form new compounds, the process is called —","options":["Oxidation","Carbonation","Hydrolysis","Solution"],"answer":"Hydrolysis"},
+    {"number":13,"question":"The slow, downward movement of soil under gravity is called —","options":["Landslide","Mudflow","Soil creep","Rockfall"],"answer":"Soil creep"},
+    {"number":14,"question":"Which of the following mass movements occurs suddenly and rapidly?","options":["Soil creep","Landslide","Solifluction","Earth flow"],"answer":"Landslide"},
+    {"number":15,"question":"The movement of saturated soil mixed with water down a slope is known as —","options":["Mudflow","Rockslide","Soil creep","Avalanche"],"answer":"Mudflow"},
+    {"number":16,"question":"Which factor commonly triggers mass movement?","options":["Wind speed","Gravity","Temperature","Rainfall only"],"answer":"Gravity"},
+    {"number":17,"question":"The major cause of present-day climate change is —","options":["Human emission of greenhouse gases","Movement of the earth’s plates","Volcanic eruptions only","Ocean currents"],"answer":"Human emission of greenhouse gases"},
+    {"number":18,"question":"Which of the following gases contributes most to global warming?","options":["Oxygen","Carbon dioxide","Nitrogen","Argon"],"answer":"Carbon dioxide"},
+    {"number":19,"question":"Deforestation contributes to climate change because —","options":["It increases photosynthesis","It reduces carbon dioxide in the atmosphere","It increases carbon dioxide concentration","It promotes rainfall"],"answer":"It increases carbon dioxide concentration"},
+    {"number":20,"question":"Which of the following is a major consequence of climate change?","options":["Decrease in global temperature","Increased flooding and droughts","Stable weather patterns","Increased soil fertility everywhere"],"answer":"Increased flooding and droughts"},
+    {"number":21,"question":"A batholith is best described as","options":["A large mass of igneous rock formed deep inside the Earth’s crust","A cone-shaped volcano","A sedimentary rock","A type of metamorphic rock"],"answer":"A large mass of igneous rock formed deep inside the Earth’s crust"},
+    {"number":22,"question":"Which of the following volcanoes is formed by alternating layers of lava and ash?","options":["Shield volcano","Composite volcano","Dome volcano","Fissure volcano"],"answer":"Composite volcano"},
+    {"number":23,"question":"Lava domes are usually formed from —","options":["Very thin and fluid lava","Thick, viscous lava that cools quickly","Water and mud mixtures","Explosions of ash only"],"answer":"Thick, viscous lava that cools quickly"},
+    {"number":24,"question":"The texture of rocks found in batholiths is generally —","options":["Fine-grained","Coarse-grained","Glassy","Smooth"],"answer":"Coarse-grained"},
+    {"number":25,"question":"Which of the following is not a type of volcano?","options":["Shield volcano","Composite cone","Batholith volcano","Ash and cinder cone"],"answer":"Batholith volcano"},
+    {"number":26,"question":"The eruption of a composite cone volcano is usually —","options":["Quiet and continuous","Violent and explosive","Gentle and mild","Non-existent"],"answer":"Violent and explosive"},
+    {"number":27,"question":"Batholiths are exposed to the surface mainly through —","options":["Erosion and denudation","Volcanic eruption","Earthquakes","Sedimentation"],"answer":"Erosion and denudation"},
+    {"number":28,"question":"The steep slopes and small bases of lava domes are due to —","options":["Fast-moving lava","Thick, slow-moving lava","Strong wind erosion","Sedimentary layering"],"answer":"Thick, slow-moving lava"},
+    {"number":29,"question":"Ash and cinder cones are made up mostly of —","options":["Lava flows","Alternating sand and water","Layers of ash, cinders, and volcanic bombs","Basaltic magma only"],"answer":"Layers of ash, cinders, and volcanic bombs"},
+    {"number":30,"question":"Mount Parícutin in Mexico is an example of —","options":["A composite cone","A lava dome","An ash and cinder cone","A shield volcano"],"answer":"An ash and cinder cone"},
+    {"number":31,"question":"Which of the following volcanoes has broad, gentle slopes and covers large areas?","options":["Composite cone","Shield volcano","Dome volcano","Cinder cone"],"answer":"Shield volcano"},
+    {"number":32,"question":"Which of these factors can most strongly influence international trade between countries?","options":["Differences in natural resources","Shape of the coastline","Population size alone","Color of the soil"],"answer":"Differences in natural resources"},
+    {"number":33,"question":"Poor transport networks between nations can lead to —","options":["High trade volume","Reduction in trade activities","Improved industrialization","Increase in exports"],"answer":"Reduction in trade activities"},
+    {"number":34,"question":"The term international trade refers to —","options":["Trade among individuals","Trade within one country","Trade between different countries","Local market exchange"],"answer":"Trade between different countries"},
+    {"number":35,"question":"Trade that takes place inside a country is called —","options":["Foreign trade","Internal trade","External trade","Transcontinental trade"],"answer":"Internal trade"},
+    {"number":36,"question":"Tariffs and import duties can affect international trade by —","options":["Increasing global cooperation","Making imported goods more expensive","Reducing production of local goods","Encouraging more exports"],"answer":"Making imported goods more expensive"},
+    {"number":37,"question":"The shape of a composite volcano is generally —","options":["Gentle and low","Steep-sided and cone-shaped","Flat and wide","Irregular and sunken"],"answer":"Steep-sided and cone-shaped"},
+    {"number":38,"question":"Batholiths are usually composed of —","options":["Basalt","Granite","Sandstone","Limestone"],"answer":"Granite"},
+    {"number":39,"question":"Which of the following factors can limit international trade between two nations?","options":["Political conflicts and wars","Similar economic resources","Poor communication links","All of the above"],"answer":"All of the above"},
+    {"number":40,"question":"Lava domes and composite volcanoes are both classified as —","options":["Intrusive landforms","Extrusive volcanic landforms","River landforms","Glacial landforms"],"answer":"Extrusive volcanic landforms"},
+    {"number":41,"question":"What is an earthquake?","options":["Sudden shaking of the earth’s crust","Gradual movement of air","Rotation of the earth on its axis","Flow of lava on the surface"],"answer":"Sudden shaking of the earth’s crust"},
+    {"number":42,"question":"The point within the Earth where an earthquake originates is called the —","options":["Epicenter","Crater","Focus (or Hypocenter)","Seismic zone"],"answer":"Focus (or Hypocenter)"},
+    {"number":43,"question":"The instrument used to measure the strength of an earthquake is known as —","options":["Thermometer","Seismograph","Barometer","Altimeter"],"answer":"Seismograph"},
+    {"number":44,"question":"Which of the following is not an effect of an earthquake?","options":["Building collapse","Tsunamis","Volcanic eruption","Rainfall increase"],"answer":"Rainfall increase"},
+    {"number":45,"question":"What is vulcanicity?","options":["Movement of magma within or onto the earth’s crust","Breaking of rocks into pieces","Flow of rivers and streams","Movement of tectonic plates only"],"answer":"Movement of magma within or onto the earth’s crust"},
+    {"number":46,"question":"Which of the following is a positive effect of vulcanicity?","options":["Destruction of settlements","Formation of fertile soils","Air pollution","Lava burns farmlands"],"answer":"Formation of fertile soils"},
+    {"number":47,"question":"Which type of volcano has gently sloping sides and broad base?","options":["Composite volcano","Shield volcano","Dome volcano","Ash-cinder volcano"],"answer":"Shield volcano"},
+    {"number":48,"question":"Which type of volcano erupts violently and has alternating layers of lava and ash?","options":["Composite volcano (Stratovolcano)","Shield volcano","Dome volcano","Fissure volcano"],"answer":"Composite volcano (Stratovolcano)"},
+    {"number":49,"question":"Which of the following is a common effect of volcanic eruption?","options":["Release of lava, ash, and gases","Decrease in soil fertility","Reduction in landforms","Cooling of the oceans"],"answer":"Release of lava, ash, and gases"},
+    {"number":50,"question":"The opening through which lava, ash, and gases escape from a volcano is called —","options":["Crater","Magma chamber","Vent","Focus"],"answer":"Vent"}
   ]
