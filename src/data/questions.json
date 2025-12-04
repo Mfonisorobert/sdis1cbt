@@ -1,52 +1,302 @@
 [
-    {"number":1,"question":"A document from a supplier notifying a customer that undercharge has been made is called ______ note.","options":["credit","account","profit","debit"],"answer":"debit"},
-    {"number":2,"question":"_____ is for keeping records of mail that comes into an office.","options":["Dispatch book","Order book","Inward book","Outward book"],"answer":"Inward book"},
-    {"number":3,"question":"An office equipment used to make holes neatly on papers is called","options":["stapler","typewriter","photocopier","perforator"],"answer":"perforator"},
-    {"number":4,"question":"One of these is not a procedure for making payment","options":["bank draft","cash","cheques","receipts"],"answer":"receipts"},
-    {"number":5,"question":"A payment voucher does not carry one of the following information","options":["name and address of the issuing organization","the traveling expenses incurred","name and signature of the accountant of the issuing organization","signature of the receiver and date"],"answer":"the traveling expenses incurred"},
-    {"number":6,"question":"A receipt is a/an","options":["credit note","means of payment","evidence of payment","means of exchange"],"answer":"evidence of payment"},
-    {"number":7,"question":"Transparency in business means","options":["being simple","acting without hiding facts","hiding facts in business","prudent spending"],"answer":"acting without hiding facts"},
-    {"number":8,"question":"The _____ is the first person one sees after the security gate while visiting any organization","options":["manager","security","office clerk","receptionist"],"answer":"receptionist"},
-    {"number":9,"question":"The document that shows the particulars of people that visit the organization is called","options":["diary","visitor’s book","visitor’s slip","directory"],"answer":"visitor’s book"},
-    {"number":10,"question":"The book which helps the receptionist find names and address of telephone owners is called","options":["telephone directory","telephone book","telephone list","letters and parcels"],"answer":"telephone directory"},
-    {"number":11,"question":"A book where particulars of letters that are sent out of the organization are recorded is called","options":["Dispatch book","outward correspondence","postage book","inward slip"],"answer":"outward correspondence"},
-    {"number":12,"question":"______ is the act of storing goods until they are needed.","options":["transportation","warehousing","advertizing","trading"],"answer":"warehousing"},
-    {"number":13,"question":"An individual who works for himself is said to be a/an","options":["entrepreneur","enterprise","employer","sole proprietor"],"answer":"sole proprietor"},
-    {"number":14,"question":"The end user of a product is regarded as the","options":["producer","wholesaler","retailer","consumer"],"answer":"consumer"},
-    {"number":15,"question":"In order to make profit, the producer sells his products","options":["above cost","below cost","equal cost","above control"],"answer":"above cost"},
-    {"number":16,"question":"______ is sent to the buyer when goods are supplied.","options":["Delivery note","Dispatch note","Bill of exchange","Invoice"],"answer":"Bill of exchange"},
-    {"number":17,"question":"The officer that sort out incoming mails is the","options":["receptionist","mail clerk","messenger","managing director"],"answer":"mail clerk"},
-    {"number":18,"question":"Visitors on arrival are made to sign a","options":["typing document","request form","diary","visitors book"],"answer":"visitors book"},
-    {"number":19,"question":"A receptionist must be","options":["tactful","proud","a fighter","dirty"],"answer":"tactful"},
-    {"number":20,"question":"One of the duties of a receptionist is to","options":["welcome visitors politely","welcome visitors rudely","insult visitors","embarrass visitors"],"answer":"welcome visitors politely"},
-    {"number":21,"question":"_____ is an office worker employed duly to receive visitors and answer telephone calls.","options":["A clerk","Receptionist","A principal","Gateman"],"answer":"Receptionist"},
-    {"number":22,"question":"One of the documents handled by a receptionist is","options":["diary","timetable","staff personal file","students notebook"],"answer":"diary"},
-    {"number":23,"question":"_____ is the receiving and exchange of letters in an organization.","options":["Office document","Office correspondence","Stamping of mail","Sorting of letters"],"answer":"Office correspondence"},
-    {"number":24,"question":"______ is a record that shows what an organization is able to buy from the manufacturers.","options":["Sales document","Purchase document","Requisition form","Credit note"],"answer":"Purchase document"},
-    {"number":25,"question":"The tax charged by a government on goods produced within the country is called","options":["excise duty","government tax","custom tax","tax on goods"],"answer":"excise duty"},
-    {"number":26,"question":"The tax charged by a government on goods produced outside the country is called","options":["custom duty","excise duty","import tax","government tax"],"answer":"custom duty"},
-    {"number":27,"question":"The exchange of goods and services for money by people within a country in order to satisfy their needs and wants is called","options":["home trade","foreign trade","commodity trade","external trade"],"answer":"home trade"},
-    {"number":28,"question":"The exchange of goods and services between two or more countries is known as","options":["home trade","internal trade","commodity trade","foreign trade"],"answer":"foreign trade"},
-    {"number":29,"question":"A _____ is a room or place where raw materials, semi-finished and finished goods are stored until they are needed for use.","options":["store","warehouse","barn","goods house"],"answer":"warehouse"},
-    {"number":30,"question":"Transparency means","options":["transferring smoothing from one place to another","act of covering the truth","act of tramping law under feet","act of being truthful"],"answer":"act of being truthful"},
-    {"number":31,"question":"One of the attributes of TAP is","options":["honesty","covering of facts","unrehability","lack of commitment"],"answer":"honesty"},
-    {"number":32,"question":"The following are functions performed in an office except information","options":["giving","preventing","processing","receiving"],"answer":"preventing"},
-    {"number":33,"question":"A principal’s office is a good example of a _____ office.","options":["departmental","large","sales","small"],"answer":"small"},
-    {"number":34,"question":"The place in an organization where a visitor receives information about the person he wants to visit is called ______ room.","options":["quest","information","reception","strong"],"answer":"reception"},
-    {"number":35,"question":"Which of the following is an acknowledgement of payment?","options":["Cash","Cheque","Draft","Receipt"],"answer":"Receipt"},
-    {"number":36,"question":"Which of these is used to produce the exact copy of a document?","options":["Collator","Duplicator","Perforator","Photocopier"],"answer":"Photocopier"},
-    {"number":37,"question":"Mr. Kuta B. opened an account with a bank in Minna and was able to withdraw his money from the bank’s branch in Lagos while on business trip. This was made possible through _____ bank.","options":["central","commercial","electronic","mortgage"],"answer":"electronic"},
-    {"number":38,"question":"A complimentary card usually shows the following information except","options":["account number","address","name","telephone"],"answer":"account number"},
-    {"number":39,"question":"The request slip is usually filled by","options":["manager","messenger","receptionist","visitors"],"answer":"visitors"},
-    {"number":40,"question":"The advertising medium mostly found along major roads in cities is","options":["bill board","leaflet","magazine","radio"],"answer":"bill board"},
-    {"number":41,"question":"Which of these is not a duty of a receptionist?","options":["Analyzing data","Answering telephone calls","Handling mails","Receiving"],"answer":"Answering telephone calls"},
-    {"number":42,"question":"An office that contains one or two persons only is called _____ office.","options":["close","general","large","open"],"answer":"close"},
-    {"number":43,"question":"The act of giving information to the public about a product or service is called","options":["advertising","branding","communication","marketing"],"answer":"advertising"},
-    {"number":44,"question":"These items can be regarded as petty expenses except","options":["brush","car","detergent","newspaper"],"answer":"car"},
-    {"number":45,"question":"The following information are contained on a cash receipt except","options":["amount received","date of payment","expiry date","name of customer"],"answer":"expiry date"},
-    {"number":46,"question":"Sales day book will show goods sold on ____ basis.","options":["cash","cash and carry","cash and credit","credit"],"answer":"cash"},
-    {"number":47,"question":"A place in an organization where formal transactions are carried out is called a/an","options":["building","cubicle","internet","office"],"answer":"office"},
-    {"number":48,"question":"The following are types of source document except","options":["cheques","delivery note","invoice","receipt"],"answer":"cheques"},
-    {"number":49,"question":"Which of the following aids to trade is utilized when people leave their places of residence to another place or country for recreation or holiday?","options":["Advertising","Banking","Communication","Tourism"],"answer":"Tourism"},
-    {"number":50,"question":"The following are components of business studies except","options":["book keeping","commerce","economic","office practice"],"answer":"economic"}
+    {
+      "number": 1,
+      "question": "The post office facilitates trade by __________.",
+      "options": ["Producing goods", "Sending letters and parcels", "Collecting taxes", "Employing drivers"],
+      "answer": "Sending letters and parcels"
+    },
+    {
+      "number": 2,
+      "question": "The cheapest means of transporting bulky goods over long distances is __________.",
+      "options": ["Air", "Rail", "Road", "Water"],
+      "answer": "Water"
+    },
+    {
+      "number": 3,
+      "question": "Merchandising in marketing refers to __________.",
+      "options": ["Promoting and selling goods", "Transporting goods", "Buying goods only", "Storing goods"],
+      "answer": "Promoting and selling goods"
+    },
+    {
+      "number": 4,
+      "question": "Insurance facilitates trade by __________.",
+      "options": ["Increasing accidents", "Encouraging theft", "Reducing risks and losses", "Raising transport cost"],
+      "answer": "Reducing risks and losses"
+    },
+    {
+      "number": 5,
+      "question": "The art of arranging goods in a store to attract buyers is called __________.",
+      "options": ["Branding", "Merchandising", "Advertising", "Personal selling"],
+      "answer": "Merchandising"
+    },
+    {
+      "number": 6,
+      "question": "The most direct channel of distribution is __________.",
+      "options": ["Producer → Consumer", "Producer → Wholesaler → Retailer → Consumer", "Producer → Agent → Consumer", "Producer → Retailer → Consumer"],
+      "answer": "Producer → Consumer"
+    },
+    {
+      "number": 7,
+      "question": "Air transport is best suited for __________.",
+      "options": ["Furniture", "Machinery", "Heavy raw materials", "Perishable and urgent goods"],
+      "answer": "Perishable and urgent goods"
+    },
+    {
+      "number": 8,
+      "question": "Which of the following is not a facilitator of trade?",
+      "options": ["Transportation", "Banking", "Insurance", "Production"],
+      "answer": "Production"
+    },
+    {
+      "number": 9,
+      "question": "The person who keeps goods in a warehouse is called __________.",
+      "options": ["Merchant", "Warehouse keeper", "Shop assistant", "Clerk"],
+      "answer": "Warehouse keeper"
+    },
+    {
+      "number": 10,
+      "question": "A bonded warehouse is used to store __________.",
+      "options": ["Spoiled goods", "Imported goods waiting for duty payment", "Raw materials", "Goods for immediate consumption"],
+      "answer": "Imported goods waiting for duty payment"
+    },
+    {
+      "number": 11,
+      "question": "The main purpose of merchandising is to __________.",
+      "options": ["Reduce consumer interest", "Hide goods from customers", "Increase product visibility and sales", "Decrease market competition"],
+      "answer": "Increase product visibility and sales"
+    },
+    {
+      "number": 12,
+      "question": "Which of the following is an advantage of warehousing?",
+      "options": ["Reduces trade", "Increases spoilage of goods", "Ensures continuous supply of goods", "Limits production"],
+      "answer": "Ensures continuous supply of goods"
+    },
+    {
+      "number": 13,
+      "question": "The main role of banking in trade is to __________.",
+      "options": ["Keep and lend money", "Sell to customers", "Store raw materials", "Produce goods"],
+      "answer": "Keep and lend money"
+    },
+    {
+      "number": 14,
+      "question": "The major purpose of transportation is to create __________ utility.",
+      "options": ["Form", "Place", "Possession", "Time"],
+      "answer": "Place"
+    },
+    {
+      "number": 15,
+      "question": "A producer sells goods directly to consumers in a __________ channel.",
+      "options": ["Direct", "Complex", "Indirect", "Dual"],
+      "answer": "Direct"
+    },
+    {
+      "number": 16,
+      "question": "Which of the following is not a channel of distribution?",
+      "options": ["Manufacturer → Warehouse → Factory", "Manufacturer → Agent → Consumer", "Manufacturer → Wholesaler → Retailer → Consumer", "Manufacturer → Consumer"],
+      "answer": "Manufacturer → Warehouse → Factory"
+    },
+    {
+      "number": 17,
+      "question": "Advertising helps trade by __________.",
+      "options": ["Reducing demand", "Informing and persuading customers", "Discouraging product awareness", "Increasing ignorance"],
+      "answer": "Informing and persuading customers"
+    },
+    {
+      "number": 18,
+      "question": "Warehousing means __________.",
+      "options": ["Buying and selling goods", "Pricing goods", "Transporting goods", "Keeping goods in store until needed"],
+      "answer": "Keeping goods in store until needed"
+    },
+    {
+      "number": 19,
+      "question": "The main function of warehousing is to create __________ utility.",
+      "options": ["Place", "Time", "Possession", "Form"],
+      "answer": "Time"
+    },
+    {
+      "number": 20,
+      "question": "Merchandising is most commonly practiced by __________.",
+      "options": ["Manufacturers", "Wholesalers only", "Retailers", "Farmers"],
+      "answer": "Retailers"
+    },
+    {
+      "number": 21,
+      "question": "Transportation in marketing means __________.",
+      "options": ["The advertisement of products", "The storing of goods in a warehouse", "The movement of goods from one place to another", "The pricing of goods"],
+      "answer": "The movement of goods from one place to another"
+    },
+    {
+      "number": 22,
+      "question": "Communication facilitates trade through __________.",
+      "options": ["Easy exchange of business information", "Storage of goods", "Physical movement of goods", "Product advertisement only"],
+      "answer": "Easy exchange of business information"
+    },
+    {
+      "number": 23,
+      "question": "Private warehouses are usually owned by __________.",
+      "options": ["Farmers’ cooperatives", "The government", "Schools", "Individuals or firms for personal use"],
+      "answer": "Individuals or firms for personal use"
+    },
+    {
+      "number": 24,
+      "question": "Facilitators of trade are those who __________.",
+      "options": ["Produce goods", "Store goods only", "Make trade easier and smoother", "Consume goods"],
+      "answer": "Make trade easier and smoother"
+    },
+    {
+      "number": 25,
+      "question": "Merchandising helps a business to __________.",
+      "options": ["Destroy brand loyalty", "Limit product awareness", "Increase sales volume", "Avoid competition"],
+      "answer": "Increase sales volume"
+    },
+    {
+      "number": 26,
+      "question": "The importance of distribution is that it __________.",
+      "options": ["Ensures products reach consumers conveniently", "Prevents goods from reaching customers", "Reduces production rate", "Increases storage cost"],
+      "answer": "Ensures products reach consumers conveniently"
+    },
+    {
+      "number": 27,
+      "question": "Transportation helps to overcome __________.",
+      "options": ["Knowledge barrier", "Time barrier", "Price barrier", "Place barrier"],
+      "answer": "Place barrier"
+    },
+    {
+      "number": 28,
+      "question": "The warehouse that stores goods for anyone at a fee is called __________.",
+      "options": ["Bonded warehouse", "Cooperative warehouse", "Private warehouse", "Public warehouse"],
+      "answer": "Public warehouse"
+    },
+    {
+      "number": 29,
+      "question": "One important tool of merchandising is __________.",
+      "options": ["Production machine", "Raw material", "Shelf display", "Computer software"],
+      "answer": "Shelf display"
+    },
+    {
+      "number": 30,
+      "question": "Which of these is an advantage of good transportation?",
+      "options": ["Facilitates distribution of goods", "Reduces market access", "Increases cost of products", "Delays delivery"],
+      "answer": "Facilitates distribution of goods"
+    },
+    {
+      "number": 31,
+      "question": "Wholesalers perform which of the following functions?",
+      "options": ["Consuming goods", "Financing producers", "Breaking bulk and storing goods", "Providing transportation only"],
+      "answer": "Breaking bulk and storing goods"
+    },
+    {
+      "number": 32,
+      "question": "The role of insurance in trade is to __________.",
+      "options": ["Increase risk", "Protect businesses from loss", "Cause damage", "Eliminate profit"],
+      "answer": "Protect businesses from loss"
+    },
+    {
+      "number": 33,
+      "question": "Goods stored in warehouses are usually insured to prevent __________.",
+      "options": ["Profit", "Loss by fire or theft", "Overproduction", "Sales increase"],
+      "answer": "Loss by fire or theft"
+    },
+    {
+      "number": 34,
+      "question": "Merchandising includes all of the following except __________.",
+      "options": ["Pricing goods", "Storing goods in warehouses", "Displaying goods", "Promoting goods"],
+      "answer": "Storing goods in warehouses"
+    },
+    {
+      "number": 35,
+      "question": "A factor that determines the choice of distribution channel is __________.",
+      "options": ["Advertising medium", "Level of education", "Type of road", "Type of product"],
+      "answer": "Type of product"
+    },
+    {
+      "number": 36,
+      "question": "Which of the following is not a function of warehousing?",
+      "options": ["Stabilizing prices", "Storage", "Displaying goods to customers", "Protection of goods"],
+      "answer": "Displaying goods to customers"
+    },
+    {
+      "number": 37,
+      "question": "The main function of insurance in trade is to __________.",
+      "options": ["Protect business against loss", "Cause accidents", "Increase production cost", "Delay payment"],
+      "answer": "Protect business against loss"
+    },
+    {
+      "number": 38,
+      "question": "A major problem of transportation in developing countries is __________.",
+      "options": ["Poor infrastructure", "Efficient railways", "Cheap fuel", "Good roads"],
+      "answer": "Poor infrastructure"
+    },
+    {
+      "number": 39,
+      "question": "Visual merchandising involves __________.",
+      "options": ["Selling through agents only", "Displaying goods attractively to attract customers", "Promoting goods online", "Hiding product prices"],
+      "answer": "Displaying goods attractively to attract customers"
+    },
+    {
+      "number": 40,
+      "question": "A retailer buys goods from __________.",
+      "options": ["Consumers", "The government", "Wholesalers or manufacturers", "Bankers"],
+      "answer": "Wholesalers or manufacturers"
+    },
+    {
+      "number": 41,
+      "question": "Banking services are important to trade because they __________.",
+      "options": ["Offer transport", "Provide loans and safe deposits", "Manufacture goods", "Provide insurance cover"],
+      "answer": "Provide loans and safe deposits"
+    },
+    {
+      "number": 42,
+      "question": "The vehicle used in road transport is __________.",
+      "options": ["Ship", "Lorry", "Airplane", "Train"],
+      "answer": "Lorry"
+    },
+    {
+      "number": 43,
+      "question": "Warehousing helps to bridge the gap between __________.",
+      "options": ["Retailers and consumers", "Production and consumption", "Producers and accountants", "Traders and banks"],
+      "answer": "Production and consumption"
+    },
+    {
+      "number": 44,
+      "question": "Without facilitators of trade, commerce would be __________.",
+      "options": ["Quick and easy", "Unnecessary", "Slow and inefficient", "Limited to government only"],
+      "answer": "Slow and inefficient"
+    },
+    {
+      "number": 45,
+      "question": "Distribution means __________.",
+      "options": ["The process of moving goods from producers to consumers", "The advertising of goods", "The storing of goods in warehouses", "The act of producing goods"],
+      "answer": "The process of moving goods from producers to consumers"
+    },
+    {
+      "number": 46,
+      "question": "The two main channels of distribution are __________.",
+      "options": ["Direct and Indirect", "Wholesale and Retail", "Local and Foreign", "Producer and Consumer"],
+      "answer": "Direct and Indirect"
+    },
+    {
+      "number": 47,
+      "question": "The vehicle best suited for transporting petroleum products is __________.",
+      "options": ["Pipeline", "Rail", "Road", "Air"],
+      "answer": "Pipeline"
+    },
+    {
+      "number": 48,
+      "question": "One function of distribution is __________.",
+      "options": ["Making goods available at the right place and time", "Auditing accounts", "Changing raw materials into finished goods", "Recruiting workers"],
+      "answer": "Making goods available at the right place and time"
+    },
+    {
+      "number": 49,
+      "question": "The main purpose of warehousing is to __________.",
+      "options": ["Store goods until needed", "Increase production cost", "Destroy goods", "Reduce supply"],
+      "answer": "Store goods until needed"
+    },
+    {
+      "number": 50,
+      "question": "Merchandising is necessary because it __________.",
+      "options": ["Increases competition and discourages sales", "Reduces advertising", "Prevents customer satisfaction", "Encourages impulse buying"],
+      "answer": "Encourages impulse buying"
+    }
   ]
